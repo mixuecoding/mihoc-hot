@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:18:07.566189+08:00",
+  "updated": "2026-06-28T20:22:43.270883+08:00",
   "source_count": {
     "global": 11,
     "wechat": 1
@@ -16,36 +16,36 @@
       "metadata": {
         "id": 48703759,
         "by": "reaperducer",
-        "comments": 75,
+        "comments": 76,
         "hn_url": "https://news.ycombinator.com/item?id=48703759"
+      }
+    },
+    {
+      "keyword": "DLL that was not present in memory despite not being formally unloaded",
+      "source": "hackernews",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "score": 3.6,
+      "traffic": "18 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48705910,
+        "by": "ibobev",
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48705910"
       }
     },
     {
       "keyword": "Bashblog – a single bash script to create blogs",
       "source": "hackernews",
       "url": "https://github.com/cfenollosa/bashblog",
-      "score": 13.2,
-      "traffic": "66 points",
+      "score": 13.4,
+      "traffic": "67 points",
       "category": "tech",
       "metadata": {
         "id": 48704454,
         "by": "ludicrousdispla",
         "comments": 43,
         "hn_url": "https://news.ycombinator.com/item?id=48704454"
-      }
-    },
-    {
-      "keyword": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "source": "hackernews",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 32.2,
-      "traffic": "161 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48703258,
-        "by": "jakogut",
-        "comments": 51,
-        "hn_url": "https://news.ycombinator.com/item?id=48703258"
       }
     },
     {
@@ -63,17 +63,17 @@
       }
     },
     {
-      "keyword": "DLL that was not present in memory despite not being formally unloaded",
+      "keyword": "AMD Strix Halo RDMA Cluster Setup Guide",
       "source": "hackernews",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-      "score": 3.0,
-      "traffic": "15 points",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 32.6,
+      "traffic": "163 points",
       "category": "tech",
       "metadata": {
-        "id": 48705910,
-        "by": "ibobev",
-        "comments": 0,
-        "hn_url": "https://news.ycombinator.com/item?id=48705910"
+        "id": 48703258,
+        "by": "jakogut",
+        "comments": 51,
+        "hn_url": "https://news.ycombinator.com/item?id=48703258"
       }
     },
     {
@@ -81,13 +81,27 @@
       "source": "hackernews",
       "url": "https://github.com/bikini/exploitarium",
       "score": 100,
-      "traffic": "841 points",
+      "traffic": "844 points",
       "category": "tech",
       "metadata": {
         "id": 48698617,
         "by": "binyu",
-        "comments": 327,
+        "comments": 328,
         "hn_url": "https://news.ycombinator.com/item?id=48698617"
+      }
+    },
+    {
+      "keyword": "More evidence of life on Mars but still no life",
+      "source": "hackernews",
+      "url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
+      "score": 1.8,
+      "traffic": "9 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48706554,
+        "by": "pseudolus",
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=48706554"
       }
     },
     {
@@ -114,7 +128,7 @@
       "metadata": {
         "id": 48703412,
         "by": "jackpriceburns",
-        "comments": 56,
+        "comments": 57,
         "hn_url": "https://news.ycombinator.com/item?id=48703412"
       }
     },
@@ -122,8 +136,8 @@
       "keyword": "Choosing a Public DNS Resolver",
       "source": "hackernews",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 37.6,
-      "traffic": "188 points",
+      "score": 38.0,
+      "traffic": "190 points",
       "category": "tech",
       "metadata": {
         "id": 48702273,
@@ -136,8 +150,8 @@
       "keyword": "Engineering for Bounded Cognition",
       "source": "hackernews",
       "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-      "score": 12.6,
-      "traffic": "63 points",
+      "score": 12.8,
+      "traffic": "64 points",
       "category": "tech",
       "metadata": {
         "id": 48685967,
@@ -156,30 +170,30 @@
       "metadata": {
         "id": 48696982,
         "by": "signa11",
-        "comments": 182,
+        "comments": 183,
         "hn_url": "https://news.ycombinator.com/item?id=48696982"
       }
     },
     {
-      "keyword": "More evidence of life on Mars but still no life",
+      "keyword": "A stray \"j\" ruined my evening",
       "source": "hackernews",
-      "url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-      "score": 1.2,
-      "traffic": "6 points",
+      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
+      "score": 4.6,
+      "traffic": "23 points",
       "category": "tech",
       "metadata": {
-        "id": 48706554,
-        "by": "pseudolus",
-        "comments": 0,
-        "hn_url": "https://news.ycombinator.com/item?id=48706554"
+        "id": 48652019,
+        "by": "birdculture",
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48652019"
       }
     },
     {
       "keyword": "Reflecting to optimise",
       "source": "hackernews",
       "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-      "score": 5.6,
-      "traffic": "28 points",
+      "score": 5.8,
+      "traffic": "29 points",
       "category": "tech",
       "metadata": {
         "id": 48686804,
@@ -200,20 +214,6 @@
         "by": "whiteblossom",
         "comments": 0,
         "hn_url": "https://news.ycombinator.com/item?id=48689407"
-      }
-    },
-    {
-      "keyword": "A stray \"j\" ruined my evening",
-      "source": "hackernews",
-      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
-      "score": 4.6,
-      "traffic": "23 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48652019,
-        "by": "birdculture",
-        "comments": 11,
-        "hn_url": "https://news.ycombinator.com/item?id=48652019"
       }
     },
     {
@@ -403,7 +403,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79968920/why-does-getsingleornull-return-a-non-nullable-type-in-drift-when-checking-if",
       "score": 0.0,
-      "traffic": "24 views",
+      "traffic": "27 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -420,7 +420,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79968927/how-to-resize-form-and-a-button-but-keep-the-button-square",
       "score": -0.2,
-      "traffic": "13 views",
+      "traffic": "14 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -509,7 +509,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79968902/kgdb-kernel-backtrace-for-waiting-process",
       "score": 0.0,
-      "traffic": "20 views",
+      "traffic": "21 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -596,7 +596,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79968887/regression-analysis-vs-regression-tests",
       "score": 0.0,
-      "traffic": "23 views",
+      "traffic": "24 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -1565,7 +1565,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 16,
-        "pull_count": 508503,
+        "pull_count": 508504,
         "description": "SATOSA translates between auth protocols such as SAML2, OpenID Connect, and OAuth2."
       }
     },
@@ -1682,7 +1682,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 13,
-        "pull_count": 1088890,
+        "pull_count": 1088892,
         "description": "DEPRECATED; Liquibase is DevOps for your database."
       }
     },
@@ -2329,18 +2329,18 @@
       "metadata": {}
     },
     {
-      "keyword": "全国律协：坚决拥护中国共产党领导、拥护我国社会主义法治，努力做党和人民满意的好律师",
+      "keyword": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33469598",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33467359",
       "score": 0,
       "traffic": "",
       "category": "news",
       "metadata": {}
     },
     {
-      "keyword": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+      "keyword": "全国律协：坚决拥护中国共产党领导、拥护我国社会主义法治，努力做党和人民满意的好律师",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33467359",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33469598",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2392,9 +2392,9 @@
       "metadata": {}
     },
     {
-      "keyword": "山东曲阜通报“牌坊顶部构件脱落事故”：致1死6伤",
+      "keyword": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33468436",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33470581",
       "score": 0,
       "traffic": "",
       "category": "news",
