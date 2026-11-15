@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:17:20.249320+08:00",
+  "updated": "2026-11-16T05:55:01.535115+08:00",
   "source_count": {
     "global": 11,
     "wechat": 1
@@ -7,44 +7,142 @@
   "total_items": 176,
   "global": [
     {
-      "keyword": "All AI-generated code should be Open Source",
+      "keyword": "A short explainer on how El Niño works [video]",
       "source": "hackernews",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "score": 81.0,
-      "traffic": "405 points",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 22.6,
+      "traffic": "113 points",
       "category": "tech",
       "metadata": {
-        "id": 50507303,
-        "by": "jcubic",
-        "comments": 248,
-        "hn_url": "https://news.ycombinator.com/item?id=50507303"
+        "id": 50509308,
+        "by": "nharada",
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=50509308"
       }
     },
     {
-      "keyword": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "keyword": "Your Agent Will Pick the Hackable One",
+      "source": "hackernews",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "score": 3.4,
+      "traffic": "17 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50510799,
+        "by": "tensafefrogs",
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50510799"
+      }
+    },
+    {
+      "keyword": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "source": "hackernews",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "score": 19.4,
+      "traffic": "97 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50509023,
+        "by": "gumby",
+        "comments": 66,
+        "hn_url": "https://news.ycombinator.com/item?id=50509023"
+      }
+    },
+    {
+      "keyword": "The MacBook Pro's OLED PWM problem",
       "source": "hackernews",
       "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "score": 42.6,
-      "traffic": "213 points",
+      "score": 71.6,
+      "traffic": "358 points",
       "category": "tech",
       "metadata": {
         "id": 50506719,
         "by": "MacAnorak",
-        "comments": 111,
+        "comments": 188,
         "hn_url": "https://news.ycombinator.com/item?id=50506719"
+      }
+    },
+    {
+      "keyword": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "source": "hackernews",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "score": 6.0,
+      "traffic": "30 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50509837,
+        "by": "bcye",
+        "comments": 8,
+        "hn_url": "https://news.ycombinator.com/item?id=50509837"
+      }
+    },
+    {
+      "keyword": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "source": "hackernews",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 51.2,
+      "traffic": "256 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50463399,
+        "by": "envoked",
+        "comments": 122,
+        "hn_url": "https://news.ycombinator.com/item?id=50463399"
+      }
+    },
+    {
+      "keyword": "Eclipse Mosquitto – An open source MQTT broker",
+      "source": "hackernews",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "score": 8.6,
+      "traffic": "43 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50509416,
+        "by": "gregsadetsky",
+        "comments": 15,
+        "hn_url": "https://news.ycombinator.com/item?id=50509416"
+      }
+    },
+    {
+      "keyword": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "source": "hackernews",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "score": 45.4,
+      "traffic": "227 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50509411,
+        "by": "DeepLogin",
+        "comments": 108,
+        "hn_url": "https://news.ycombinator.com/item?id=50509411"
+      }
+    },
+    {
+      "keyword": "Your room can be as bright as the outdoors (2019)",
+      "source": "hackernews",
+      "url": "https://www.benkuhn.net/lux/",
+      "score": 9.4,
+      "traffic": "47 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50488916,
+        "by": "mday404",
+        "comments": 19,
+        "hn_url": "https://news.ycombinator.com/item?id=50488916"
       }
     },
     {
       "keyword": "Things That Turbo Pascal Is Smaller Than (2011)",
       "source": "hackernews",
       "url": "https://prog21.dadgum.com/116.html",
-      "score": 17.6,
-      "traffic": "88 points",
+      "score": 33.8,
+      "traffic": "169 points",
       "category": "tech",
       "metadata": {
         "id": 50506894,
         "by": "ksec",
-        "comments": 34,
+        "comments": 82,
         "hn_url": "https://news.ycombinator.com/item?id=50506894"
       }
     },
@@ -52,168 +150,70 @@
       "keyword": "Emacs Is My Browser",
       "source": "hackernews",
       "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "score": 8.4,
-      "traffic": "42 points",
+      "score": 29.8,
+      "traffic": "149 points",
       "category": "tech",
       "metadata": {
         "id": 50507553,
         "by": "nyc111",
-        "comments": 13,
+        "comments": 77,
         "hn_url": "https://news.ycombinator.com/item?id=50507553"
       }
     },
     {
-      "keyword": "SpaceX catches the Starship to end Flight 15",
+      "keyword": "WebGL Flight Simulator with seed generated terrain",
       "source": "hackernews",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
-      "score": 100,
-      "traffic": "1485 points",
+      "url": "https://baron.by.dai.studio/",
+      "score": 1.4,
+      "traffic": "7 points",
       "category": "tech",
       "metadata": {
-        "id": 50500963,
-        "by": "ls612",
-        "comments": 1018,
-        "hn_url": "https://news.ycombinator.com/item?id=50500963"
+        "id": 50510296,
+        "by": "ranger_danger",
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=50510296"
+      }
+    },
+    {
+      "keyword": "Clice v1.0 Released: Welcome to Modern C++",
+      "source": "hackernews",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "score": 9.8,
+      "traffic": "49 points",
+      "category": "tech",
+      "metadata": {
+        "id": 50508715,
+        "by": "molenzwiebel",
+        "comments": 31,
+        "hn_url": "https://news.ycombinator.com/item?id=50508715"
       }
     },
     {
       "keyword": "Understanding Positional Embeddings in Modern LLMs",
       "source": "hackernews",
       "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 21.8,
-      "traffic": "109 points",
+      "score": 35.6,
+      "traffic": "178 points",
       "category": "tech",
       "metadata": {
         "id": 50506376,
         "by": "vismit2000",
-        "comments": 2,
+        "comments": 20,
         "hn_url": "https://news.ycombinator.com/item?id=50506376"
       }
     },
     {
-      "keyword": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "keyword": "Do House members' stock trades beat the market? A test of 8,900 trades",
       "source": "hackernews",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "score": 12.6,
-      "traffic": "63 points",
+      "url": "https://arkanumdata.com/research/house-trades",
+      "score": 16.2,
+      "traffic": "81 points",
       "category": "tech",
       "metadata": {
-        "id": 50463399,
-        "by": "envoked",
-        "comments": 27,
-        "hn_url": "https://news.ycombinator.com/item?id=50463399"
-      }
-    },
-    {
-      "keyword": "Court denies motion to dismiss DRAM price fixing case",
-      "source": "hackernews",
-      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "score": 77.6,
-      "traffic": "388 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50502988,
-        "by": "ybathaee",
-        "comments": 164,
-        "hn_url": "https://news.ycombinator.com/item?id=50502988"
-      }
-    },
-    {
-      "keyword": "A NES emulator written in Odin",
-      "source": "hackernews",
-      "url": "https://lucypero.com/lucynes.html",
-      "score": 11.4,
-      "traffic": "57 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50506588,
-        "by": "frostbyte7",
-        "comments": 9,
-        "hn_url": "https://news.ycombinator.com/item?id=50506588"
-      }
-    },
-    {
-      "keyword": "20 Years of Pyrolog",
-      "source": "hackernews",
-      "url": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
-      "score": 5.2,
-      "traffic": "26 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50467539,
-        "by": "lumpa",
-        "comments": 1,
-        "hn_url": "https://news.ycombinator.com/item?id=50467539"
-      }
-    },
-    {
-      "keyword": "Why did some Apollo missions carry a grenade launcher?",
-      "source": "hackernews",
-      "url": "https://space.stackexchange.com/questions/37775",
-      "score": 29.4,
-      "traffic": "147 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50505271,
-        "by": "Skyfall106",
-        "comments": 104,
-        "hn_url": "https://news.ycombinator.com/item?id=50505271"
-      }
-    },
-    {
-      "keyword": "What thousands of conversations look like inside a language model",
-      "source": "hackernews",
-      "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "score": 12.8,
-      "traffic": "64 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50481321,
-        "by": "josip208",
-        "comments": 21,
-        "hn_url": "https://news.ycombinator.com/item?id=50481321"
-      }
-    },
-    {
-      "keyword": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "source": "hackernews",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "score": 42.8,
-      "traffic": "214 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50506180,
-        "by": "JumpCrisscross",
-        "comments": 91,
-        "hn_url": "https://news.ycombinator.com/item?id=50506180"
-      }
-    },
-    {
-      "keyword": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "source": "hackernews",
-      "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-      "score": 11.8,
-      "traffic": "59 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50507206,
-        "by": "rbanffy",
-        "comments": 27,
-        "hn_url": "https://news.ycombinator.com/item?id=50507206"
-      }
-    },
-    {
-      "keyword": "Chasing an audio artifact on power loss",
-      "source": "hackernews",
-      "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "score": 6.8,
-      "traffic": "34 points",
-      "category": "tech",
-      "metadata": {
-        "id": 50475759,
-        "by": "ireflect",
-        "comments": 3,
-        "hn_url": "https://news.ycombinator.com/item?id=50475759"
+        "id": 50510005,
+        "by": "Bluestein",
+        "comments": 78,
+        "hn_url": "https://news.ycombinator.com/item?id=50510005"
       }
     },
     {
@@ -385,28 +385,162 @@
       }
     },
     {
-      "keyword": "A scrollable text area in Java",
+      "keyword": "Set character amount for html input",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016850/a-scrollable-text-area-in-java",
+      "url": "https://stackoverflow.com/questions/80016877/set-character-amount-for-html-input",
+      "score": 0,
+      "traffic": "39 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "html",
+          "forms",
+          "validation",
+          "input"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "mia rowlands"
+      }
+    },
+    {
+      "keyword": "How to efficiently find all files that match a given glob pattern in Java?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016876/how-to-efficiently-find-all-files-that-match-a-given-glob-pattern-in-java",
       "score": 0.0,
-      "traffic": "31 views",
+      "traffic": "29 views",
       "category": "tech",
       "metadata": {
         "tags": [
           "java",
-          "scroll"
+          "performance",
+          "glob"
         ],
         "answer_count": 0,
         "is_answered": false,
+        "owner": "Gustav Bla&#223;"
+      }
+    },
+    {
+      "keyword": "Unity scene player input not working upon loading scene from main menu",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016866/unity-scene-player-input-not-working-upon-loading-scene-from-main-menu",
+      "score": 0,
+      "traffic": "45 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c#",
+          "unity-game-engine"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Heiloloheimir"
+      }
+    },
+    {
+      "keyword": "NVCC emits gratuitous warning about an unused type",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016856/nvcc-emits-gratuitous-warning-about-an-unused-type",
+      "score": 0.2,
+      "traffic": "144 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c++",
+          "templates",
+          "compiler-warnings",
+          "enable-if",
+          "edg"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "einpoklum"
+      }
+    },
+    {
+      "keyword": "A scrollable text area in Java",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016850/a-scrollable-text-area-in-java",
+      "score": 0.0,
+      "traffic": "90 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "java",
+          "swing",
+          "scroll",
+          "jframe",
+          "jtextarea"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
         "owner": "Mohsen"
       }
     },
     {
-      "keyword": "In CLion, how can I set my CMAKE_CUDA_HOST_COMPILER to the CLion toolchain C++ compiler?",
+      "keyword": "How can I return a value from a function decorator and the function itself?",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016852/in-clion-how-can-i-set-my-cmake-cuda-host-compiler-to-the-clion-toolchain-c-c",
+      "url": "https://stackoverflow.com/questions/80016825/how-can-i-return-a-value-from-a-function-decorator-and-the-function-itself",
       "score": 0,
-      "traffic": "22 views",
+      "traffic": "121 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "python",
+          "function",
+          "return",
+          "decorator",
+          "timeit"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "Ashley"
+      }
+    },
+    {
+      "keyword": "IEEE 754 a bug?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016828/ieee-754-a-bug",
+      "score": 0,
+      "traffic": "122 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "floating-point",
+          "language-agnostic",
+          "ieee-754"
+        ],
+        "answer_count": 2,
+        "is_answered": true,
+        "owner": "xxx"
+      }
+    },
+    {
+      "keyword": "How can I set a static lock screen wallpaper without resetting the OEM lock screen style (clock style, widgets, depth effect)?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016822/how-can-i-set-a-static-lock-screen-wallpaper-without-resetting-the-oem-lock-scre",
+      "score": 0.4,
+      "traffic": "59 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "android",
+          "kotlin",
+          "mobile",
+          "wallpapermanager"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Charles"
+      }
+    },
+    {
+      "keyword": "In CLion, can I set my CMAKE_CUDA_HOST_COMPILER to the CLion toolchain C++ compiler?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016852/in-clion-can-i-set-my-cmake-cuda-host-compiler-to-the-clion-toolchain-c-compi",
+      "score": 0.0,
+      "traffic": "60 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -421,11 +555,63 @@
       }
     },
     {
+      "keyword": "gstreamer won't process mjpeg source",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016819/gstreamer-wont-process-mjpeg-source",
+      "score": 0,
+      "traffic": "49 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "ffmpeg",
+          "gstreamer"
+        ],
+        "answer_count": 1,
+        "is_answered": false,
+        "owner": "Zak"
+      }
+    },
+    {
+      "keyword": "Intermittent NullReferenceException in iText 9.8.0 table layout on .NET 11",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016807/intermittent-nullreferenceexception-in-itext-9-8-0-table-layout-on-net-11",
+      "score": 1.0,
+      "traffic": "107 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c#",
+          "itext7",
+          ".net-11.0"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "Gustavo Adolfo"
+      }
+    },
+    {
+      "keyword": "How do I import a CSV file into MySQL Workbench 26.10.0 on macOS?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/80016829/how-do-i-import-a-csv-file-into-mysql-workbench-26-10-0-on-macos",
+      "score": 0,
+      "traffic": "83 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "csv",
+          "mysql-workbench"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "leebit"
+      }
+    },
+    {
       "keyword": "What's the best way to define a \"logical\" network between nodes?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80016848/whats-the-best-way-to-define-a-logical-network-between-nodes",
       "score": 0,
-      "traffic": "33 views",
+      "traffic": "67 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -443,7 +629,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80016840/api-quota-reached-multiple-applications-affected",
       "score": 0,
-      "traffic": "91 views",
+      "traffic": "130 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -455,47 +641,11 @@
       }
     },
     {
-      "keyword": "How do I import a CSV file into MySQL Workbench 26.10.0 on macOS?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016829/how-do-i-import-a-csv-file-into-mysql-workbench-26-10-0-on-macos",
-      "score": 0,
-      "traffic": "52 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "csv",
-          "mysql-workbench"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "leebit"
-      }
-    },
-    {
-      "keyword": "IEEE 754 a bug?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016828/ieee-754-a-bug",
-      "score": 0,
-      "traffic": "61 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "advice",
-          "floating-point",
-          "language-agnostic",
-          "ieee-754"
-        ],
-        "answer_count": 1,
-        "is_answered": false,
-        "owner": "Radin Saber"
-      }
-    },
-    {
       "keyword": "How can I validate if a string is a real number in Python using string methods?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/80016839/how-can-i-validate-if-a-string-is-a-real-number-in-python-using-string-methods",
       "score": 0,
-      "traffic": "55 views",
+      "traffic": "108 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -507,147 +657,7 @@
       }
     },
     {
-      "keyword": "problem with returning a function/decorator",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016825/problem-with-returning-a-function-decorator",
-      "score": 0,
-      "traffic": "70 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python",
-          "decorator",
-          "timeit"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "Ashley"
-      }
-    },
-    {
-      "keyword": "Tokenize/untokenize leaves unwanted lines",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016823/tokenize-untokenize-leaves-unwanted-lines",
-      "score": 0,
-      "traffic": "55 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python",
-          "tokenize"
-        ],
-        "answer_count": 2,
-        "is_answered": false,
-        "owner": "NickC"
-      }
-    },
-    {
-      "keyword": "How can I set a static lock screen wallpaper without resetting the OEM lock screen style (clock style, widgets, depth effect)?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016822/how-can-i-set-a-static-lock-screen-wallpaper-without-resetting-the-oem-lock-scre",
-      "score": 0.0,
-      "traffic": "30 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "android",
-          "kotlin",
-          "mobile",
-          "wallpapermanager"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Charles"
-      }
-    },
-    {
-      "keyword": "gstreamer won't process mjpeg source",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016819/gstreamer-wont-process-mjpeg-source",
-      "score": 0,
-      "traffic": "29 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "ffmpeg",
-          "gstreamer"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Zak"
-      }
-    },
-    {
-      "keyword": "Order of prints when deleting object references in Python",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016745/order-of-prints-when-deleting-object-references-in-python",
-      "score": 0.0,
-      "traffic": "129 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python"
-        ],
-        "answer_count": 2,
-        "is_answered": true,
-        "owner": "hatenoone"
-      }
-    },
-    {
-      "keyword": "Intermittent NullReferenceException in iText 9.8.0 table layout on .NET 11",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016807/intermittent-nullreferenceexception-in-itext-9-8-0-table-layout-on-net-11",
-      "score": 0.6,
-      "traffic": "54 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c#",
-          "itext7"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Gustavo Adolfo"
-      }
-    },
-    {
-      "keyword": "Oh My Posh prompt renders differently in the VS Code integrated PowerShell terminal",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016783/oh-my-posh-prompt-renders-differently-in-the-vs-code-integrated-powershell-termi",
-      "score": 0,
-      "traffic": "97 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "powershell",
-          "vs-code",
-          "terminal",
-          "fonts",
-          "oh-my-posh"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Scorpion"
-      }
-    },
-    {
-      "keyword": "Can static websites be viewed without a server?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/80016780/can-static-websites-be-viewed-without-a-server",
-      "score": 0,
-      "traffic": "129 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "advice"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "MisbahDev"
-      }
-    },
-    {
-      "keyword": "ou game today",
+      "keyword": "lamine yamal",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 40.0,
@@ -656,26 +666,54 @@
       "metadata": {
         "news": [
           {
-            "title": "Oklahoma AD rips Ole Miss, SEC; Rebels defend travel effort",
-            "url": "https://www.espn.com/college-football/story/_/id/50482206/oklahoma-ad-infuriated-sec-ole-miss-sunday-game",
+            "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+            "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+            "source": "The Guardian"
+          },
+          {
+            "title": "Spain vs England: James Trafford set to replace Jordan Pickford as goalkeeper - but how does Thomas Tuchel stop Lamine Yamal?",
+            "url": "https://www.skysports.com/football/news/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal",
+            "source": "Sky Sports"
+          },
+          {
+            "title": "Why Lamine Yamal Will Wear a Different Jersey Number for Spain vs. England",
+            "url": "https://www.si.com/soccer/why-lamine-yamal-wear-different-jersey-number-spain-vs-england-11-15-26",
+            "source": "Sports Illustrated"
+          }
+        ],
+        "geo": ""
+      }
+    },
+    {
+      "keyword": "mike evans",
+      "source": "google_trends",
+      "url": "https://trends.google.com/trending?geo=",
+      "score": 20.0,
+      "traffic": "1000+",
+      "category": "",
+      "metadata": {
+        "news": [
+          {
+            "title": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys",
+            "url": "https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys",
             "source": "ESPN"
           },
           {
-            "title": "AP Top 25 predictions: Who will rise, fall in college football rankings delayed to Monday?",
-            "url": "https://www.nytimes.com/athletic/7783772/2026/11/15/ap-top-25-college-football-week-11/",
-            "source": "The New York Times"
+            "title": "49ers injury report: WR Mike Evans remains out vs. Cowboys",
+            "url": "https://sports.yahoo.com/articles/49ers-injury-report-wr-mike-203146119.html",
+            "source": "Yahoo Sports"
           },
           {
-            "title": "OU offering promotions for fans after game against Ole Miss moved to Sunday",
-            "url": "https://www.koco.com/article/ou-offering-promotions-game-against-ole-miss-moved-sunday/74431341",
-            "source": "KOCO"
+            "title": "49ers inactive list: Trent Williams and Dre Greenlaw will play today",
+            "url": "https://www.ninersnation.com/san-francisco-49ers-news/165758/trent-williams-and-dre-greenlaw-will-play-today",
+            "source": "Niners Nation"
           }
         ],
         "geo": ""
       }
     },
     {
-      "keyword": "dolphins vs colts",
+      "keyword": "fred warner",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 10.0,
@@ -684,166 +722,138 @@
       "metadata": {
         "news": [
           {
-            "title": "Dolphins, Colts will stage a \"someone has to win\" game",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-colts-will-stage-a-someone-has-to-win-game",
+            "title": "Brock Purdy for MVP? For real? He's among the 49ers nominated for midseason honors",
+            "url": "https://www.nfl.com/news/brock-purdy-for-mvp-for-real-he-s-among-the-49ers-nominated-for-midseason-honors",
+            "source": "NFL.com"
+          },
+          {
+            "title": "Brock Purdy: The $265 Million Quarterback Who’s Somehow a Bargain",
+            "url": "https://www.wsj.com/sports/football/san-francisco-49ers-brock-purdy-3307b0af",
+            "source": "WSJ"
+          },
+          {
+            "title": "Which 49ers could be All-Pros in 2026?",
+            "url": "https://www.ninersnation.com/san-francisco-49ers-news/165694/san-francisco-49ers-news-all-pro-candidates-2026-midseason-awards-brock-purdy-mvp-fred-warner-defensive-player-of-year",
+            "source": "Niners Nation"
+          }
+        ],
+        "geo": ""
+      }
+    },
+    {
+      "keyword": "nm state vs san diego st",
+      "source": "google_trends",
+      "url": "https://trends.google.com/trending?geo=",
+      "score": 4.0,
+      "traffic": "200+",
+      "category": "",
+      "metadata": {
+        "news": [
+          {
+            "title": "Scouting Report: Aztecs take on New Mexico State at Oceanside’s Frontwave Arena",
+            "url": "https://www.sandiegouniontribune.com/2026/11/15/scouting-report-aztecs-take-on-new-mexico-state-at-oceansides-frontwave-arena/",
+            "source": "San Diego Union-Tribune"
+          },
+          {
+            "title": "San Diego State vs. New Mexico State: Sunday Hoops Preview",
+            "url": "https://bvmsports.com/2026/11/13/san-diego-state-vs-new-mexico-state-sunday-hoops-preview/",
+            "source": "BVM Sports"
+          },
+          {
+            "title": "New Mexico State vs. San Diego State Time, TV & Stream – Nov. 15",
+            "url": "https://iheartsportsbayarea.iheart.com/content/2026-11-15-new-mexico-state-vs-san-diego-state-time-tv-stream-nov-15/",
+            "source": "iHeart"
+          }
+        ],
+        "geo": ""
+      }
+    },
+    {
+      "keyword": "pga leaderboard",
+      "source": "google_trends",
+      "url": "https://trends.google.com/trending?geo=",
+      "score": 4.0,
+      "traffic": "200+",
+      "category": "",
+      "metadata": {
+        "news": [
+          {
+            "title": "Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai",
+            "url": "https://www.pgatour.com/article/news/latest/2026/11/15/meet-the-10-who-earned-2027-pga-tour-cards-via-dp-world-tour-race-to-dubai-patrick-reed-eugenio-chacarra",
+            "source": "PGA Tour"
+          },
+          {
+            "title": "Meet the 10 DP World Tour grads, including Eugenio Chacarra, Patrick Reed and a former grocery deliveryman",
+            "url": "https://www.golfchannel.com/dp-world-tour/news/meet-the-10-dp-world-tour-grads-including-eugenio-chacarra-patrick-reed-and-a-former-grocery-deliveryman",
+            "source": "Golf Channel"
+          },
+          {
+            "title": "DP World Tour Championship: Which players secured PGA Tour cards via the Race to Dubai and have dual membership in 2027?",
+            "url": "https://www.skysports.com/golf/live-blog/13612212/dp-world-tour-championship-final-round-live-latest-scores-highlights-as-rory-mcilroy-chases-race-to-dubai-win",
+            "source": "Sky Sports"
+          }
+        ],
+        "geo": ""
+      }
+    },
+    {
+      "keyword": "george kittle",
+      "source": "google_trends",
+      "url": "https://trends.google.com/trending?geo=",
+      "score": 20.0,
+      "traffic": "1000+",
+      "category": "",
+      "metadata": {
+        "news": [
+          {
+            "title": "George Kittle Drops Honest Quote on 49ers’ Trade for WR Keenan Allen",
+            "url": "https://sports.yahoo.com/articles/george-kittle-drops-honest-quote-183312791.html",
+            "source": "Yahoo Sports"
+          },
+          {
+            "title": "Morning Report: McKivitz Gets Mic'd Up, Kittle Breaks Down Cowboys Defense 🗞️",
+            "url": "https://www.49ers.com/news/morning-reports/morning-report-mckivitz-gets-mic-d-up-kittle-breaks-down-cowboys-defense",
+            "source": "San Francisco 49ers"
+          },
+          {
+            "title": "49ers’ George Kittle hints at wearing viral ‘F–k Dallas’ shirt ahead of Cowboys matchup",
+            "url": "https://nypost.com/2026/11/12/sports/george-kittle-viral-dallas-t-shirt/",
+            "source": "New York Post"
+          }
+        ],
+        "geo": ""
+      }
+    },
+    {
+      "keyword": "christian mccaffrey",
+      "source": "google_trends",
+      "url": "https://trends.google.com/trending?geo=",
+      "score": 20.0,
+      "traffic": "1000+",
+      "category": "",
+      "metadata": {
+        "news": [
+          {
+            "title": "McCaffrey to have a full workload vs. the Raiders",
+            "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/mccaffrey-to-have-a-full-workload-vs-the-raiders",
             "source": "NBC Sports"
           },
           {
-            "title": "Miami Dolphins Vs Indianapolis Colts: Game Information & Live Chat",
-            "url": "https://sports.yahoo.com/articles/miami-dolphins-vs-indianapolis-colts-170000806.html",
-            "source": "Yahoo Sports"
+            "title": "Is Christian McCaffrey Playing Today? (Injury Update, Betting Impact for 49ers vs. Cowboys in NFL Week 10)",
+            "url": "https://www.si.com/betting/christian-mccaffrey-injury-update-betting-impact-for-49ers-vs-cowboys-in-nfl-week-10-2026",
+            "source": "Sports Illustrated"
           },
           {
-            "title": "Dolphins vs. Colts odds, predictions: Use Polymarket promo code CBSSPORTS to get a $25 bonus Sunday",
-            "url": "https://www.cbssports.com/prediction/news/dolphins-vs-colts-odds-predictions-use-polymarket-promo-code-cbssports-to-get-a-25-bonus-sunday/",
-            "source": "CBS Sports"
+            "title": "Christian McCaffrey Full workload expected Sunday",
+            "url": "https://www.thefantasyfootballers.com/news/646508/christian-mccaffrey-full-workload-expected-sunday/",
+            "source": "Fantasy Footballers Podcast"
           }
         ],
         "geo": ""
       }
     },
     {
-      "keyword": "mac jones",
-      "source": "google_trends",
-      "url": "https://trends.google.com/trending?geo=",
-      "score": 4.0,
-      "traffic": "200+",
-      "category": "",
-      "metadata": {
-        "news": [
-          {
-            "title": "NFL rumors: What 49ers demanded from Vikings for Mac Jones trade before Kirk Cousins deal",
-            "url": "https://sports.yahoo.com/articles/nfl-rumors-49ers-demanded-vikings-160335835.html",
-            "source": "Yahoo Sports"
-          },
-          {
-            "title": "Before trading for Kirk Cousins, the Vikings checked in on 49ers quarterback",
-            "url": "https://bringmethenews.com/minnesota-sports/before-trading-for-kirk-cousins-the-vikings-checked-in-on-49ers-quarterback",
-            "source": "Bring Me The News"
-          },
-          {
-            "title": "49ers Set High Asking Price For QB Mac Jones At Trade Deadline",
-            "url": "https://www.profootballrumors.com/2026/11/49ers-set-high-asking-price-for-qb-mac-jones-at-trade-deadline",
-            "source": "ProFootballRumors.com"
-          }
-        ],
-        "geo": ""
-      }
-    },
-    {
-      "keyword": "settlement",
-      "source": "google_trends",
-      "url": "https://trends.google.com/trending?geo=",
-      "score": 4.0,
-      "traffic": "200+",
-      "category": "",
-      "metadata": {
-        "news": [
-          {
-            "title": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
-            "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html",
-            "source": "The New York Times"
-          },
-          {
-            "title": "Family Dollar to Pay $63M in Overcharging Case",
-            "url": "https://www.newser.com/story/400027/family-dollar-to-pay-63m-in-overcharging-case.html",
-            "source": "Newser"
-          },
-          {
-            "title": "Family Dollar agrees to $63M settlement in multistate lawsuit claiming retailer overcharged customers",
-            "url": "https://www.clickondetroit.com/news/local/2026/11/13/dollar-general-agrees-to-63m-settlement-in-multistate-lawsuit-claiming-retailer-overcharged-customers/",
-            "source": "ClickOnDetroit | WDIV Local 4"
-          }
-        ],
-        "geo": ""
-      }
-    },
-    {
-      "keyword": "deportivo - barcelona",
-      "source": "google_trends",
-      "url": "https://trends.google.com/trending?geo=",
-      "score": 100,
-      "traffic": "10000+",
-      "category": "",
-      "metadata": {
-        "news": [
-          {
-            "title": "Deportivo - Barça, en directo | Liga F de fútbol femenino, en vivo",
-            "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004250826/deportivo-barca-directo-liga-f-futbol-femenino-vivo.html",
-            "source": "Mundo Deportivo"
-          },
-          {
-            "title": "(Previa) El Barça Femení visita Riazor y el Real Madrid recibe a un alicaído FC Badalona Women en Liga F Moeve",
-            "url": "https://www.infobae.com/america/agencias/2026/11/13/previa-el-barca-femeni-visita-riazor-y-el-real-madrid-recibe-a-un-alicaido-fc-badalona-women-en-liga-f-moeve/",
-            "source": "Infobae"
-          },
-          {
-            "title": "Alberto Rodríguez destaca el \"reto de saber que nos enfrentamos a uno de los mejores equipos del mundo\"",
-            "url": "https://www.rcdeportivo.es/es/noticias/alberto-rodriguez-destaca-el-reto-de-saber-que-nos-enfrentamos-a-uno-de-los-mejores-equipos-del-",
-            "source": "Deportivo de La Coruña"
-          }
-        ],
-        "geo": ""
-      }
-    },
-    {
-      "keyword": "barry sanders",
-      "source": "google_trends",
-      "url": "https://trends.google.com/trending?geo=",
-      "score": 100.0,
-      "traffic": "5000+",
-      "category": "",
-      "metadata": {
-        "news": [
-          {
-            "title": "From Oktoberfest to the NFL: How Munich crowd made ‘Country Roads’ a stadium ritual",
-            "url": "https://apnews.com/article/nfl-germany-munich-country-roads-sweet-caroline-f76d9ca8bbc0fe21bb20c7a81c509a0b",
-            "source": "AP News"
-          },
-          {
-            "title": "NFL teams with German mascots named Leo, Wolfgang and Fritz wooing fans in Munich",
-            "url": "https://www.wmur.com/article/nfl-teams-with-german-mascots/74431766",
-            "source": "WMUR"
-          },
-          {
-            "title": "4 takeaways from Rich Haddad's media session",
-            "url": "https://www.detroitlions.com/news/4-takeaways-from-rich-haddad-s-media-session-stbrown",
-            "source": "Detroit Lions"
-          }
-        ],
-        "geo": ""
-      }
-    },
-    {
-      "keyword": "bernie sanders social security expansion act",
-      "source": "google_trends",
-      "url": "https://trends.google.com/trending?geo=",
-      "score": 20.0,
-      "traffic": "1000+",
-      "category": "",
-      "metadata": {
-        "news": [
-          {
-            "title": "Bernie Sanders Proposes $2,400 Social Security Boost in New Leadership Role",
-            "url": "https://www.newsweek.com/bernie-sanders-proposes-2400-social-security-boost-in-new-leadership-role-12714000",
-            "source": "Newsweek"
-          },
-          {
-            "title": "Social Security benefits would go up extra $200 a month in bill key backer says is ‘top priority’",
-            "url": "https://www.al.com/news/2026/11/social-security-benefits-would-go-up-extra-200-a-month-in-bill-key-backer-says-is-top-priority.html",
-            "source": "AL.com"
-          },
-          {
-            "title": "Social Security benefit cuts: What Sanders’ $2,400 increase could mean for you",
-            "url": "https://www.delawareonline.com/story/news/2026/11/13/social-security-benefit-cuts-2032-bernie-sanders-2400-increase-social-security-expansion-act/92758977007/",
-            "source": "Delawareonline.com"
-          }
-        ],
-        "geo": ""
-      }
-    },
-    {
-      "keyword": "usc vs south carolina",
+      "keyword": "nick bosa",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 10.0,
@@ -852,95 +862,100 @@
       "metadata": {
         "news": [
           {
-            "title": "The Real SC to be Decided Sunday in Greenville",
-            "url": "https://gamecocksonline.com/news/2026/11/14/the-real-sc-to-be-decided-sunday-in-greenville/",
-            "source": "University of South Carolina Athletics"
+            "title": "The 49ers brought DeForest Buckner back for his leadership. It’s coming by example",
+            "url": "https://www.nytimes.com/athletic/7779849/2026/11/14/49ers-deforest-buckner-leadership/",
+            "source": "The New York Times"
           },
           {
-            "title": "The Real SC: South Carolina, Southern California set for early season heavyweight showdown",
-            "url": "https://247sports.com/college/south-carolina/article/gamecocks-women-basketball-dawn-staley-usc-juju-watkins-292639203/",
-            "source": "247Sports"
+            "title": "Nick Bosa couldn't be happier about finally turning the tables on DeForest Buckner",
+            "url": "https://ninernoise.com/nick-bosa-couldnt-be-happier-finally-turning-tables-deforest-buckner",
+            "source": "Niner Noise"
           },
           {
-            "title": "'Our game needs her': Dawn Staley praises JuJu Watkins ahead of top-three clash between South Carolina and USC",
-            "url": "https://www.cbssports.com/womens-college-basketball/news/staley-praises-juju-watkins-usc-and-south-carolina-clash/",
-            "source": "CBS Sports"
+            "title": "Kawakami: ‘We’ve got the guys to do it’ — Yes, the 49ers are in their abundance era",
+            "url": "https://sfstandard.com/2026/11/08/49ers-fred-warner-deforest-buckner-veteran-introductions-win/",
+            "source": "The San Francisco Standard"
           }
         ],
         "geo": ""
       }
     },
     {
-      "keyword": "lan larison",
+      "keyword": "miguel angel felix gallardo",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
-      "score": 40.0,
-      "traffic": "2000+",
+      "score": 10.0,
+      "traffic": "500+",
       "category": "",
       "metadata": {
         "news": [
           {
-            "title": "Lan Larison went from a RODEO CHAMPION to an NFL running back?!",
-            "url": "https://sports.yahoo.com/videos/lan-larison-went-rodeo-champion-183453101.html",
+            "title": "Muere a los 80 años el líder criminal Miguel Ángel Félix Gallardo, conocido como 'El Jefe de Jefes'",
+            "url": "https://www.univision.com/noticias/america-latina/muere-a-los-80-anos-el-lider-criminal-miguel-angel-felix-gallardo-conocido-como-el-jefe-de-jefes",
+            "source": "Univision"
+          },
+          {
+            "title": "Trasladan a un hospital a un capo del narco preso en México",
+            "url": "https://es-us.noticias.yahoo.com/trasladan-hospital-capo-narco-preso-152751862.html",
+            "source": "Yahoo"
+          },
+          {
+            "title": "EN VIVO| Seguridad, narcotráfico y crimen en México hoy 15 de noviembre: muere Miguel Ángel Félix Gallardo, fundador del Cártel de Guadalajara, a los 80 años en Jalisco",
+            "url": "https://www.infobae.com/mexico/2026/11/15/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-15-de-noviembre-grecia-quiroz-reconoce-captura-de-el-mike-pero-exige-llegar-hasta-quien-ordeno-el-asesinato-de-carlos-manzo/",
+            "source": "Infobae"
+          }
+        ],
+        "geo": ""
+      }
+    },
+    {
+      "keyword": "joey bosa",
+      "source": "google_trends",
+      "url": "https://trends.google.com/trending?geo=",
+      "score": 10.0,
+      "traffic": "500+",
+      "category": "",
+      "metadata": {
+        "news": [
+          {
+            "title": "Bengals' Zac Taylor apologizes for failed trade with Eagles: 'It was on our end'",
+            "url": "https://www.espn.com/nfl/story/_/id/50454351/bengals-zac-taylor-apologizes-failed-trade-eagles",
+            "source": "ESPN"
+          },
+          {
+            "title": "Bengals apologize for Arnold Ebiketie trade deadline debacle - The Athletic",
+            "url": "https://www.nytimes.com/athletic/7773939/2026/11/11/duke-tobin-bengals-arnold-ebiketie-trade/",
+            "source": "The New York Times"
+          },
+          {
+            "title": "Duke Tobin sends out 'not comfortable' head coach Zac Taylor to explain Bengals' trade-deadline snafu with Eagles",
+            "url": "https://sports.yahoo.com/nfl/breaking-news/article/duke-tobin-sends-out-not-comfortable-head-coach-zac-taylor-to-explain-bengals-trade-deadline-snafu-with-eagles-231720068.html",
             "source": "Yahoo Sports"
-          },
-          {
-            "title": "Lan Larison went from a RODEO CHAMPION to an NFL running back?!",
-            "url": "https://www.nbcsportsboston.com/video/nfl/new-england-patriots/lan-larison-went-from-a-rodeo-champion-to-an-nfl-running-back/813592/",
-            "source": "NBC Sports Boston"
           }
         ],
         "geo": ""
       }
     },
     {
-      "keyword": "belarus vs albania",
-      "source": "google_trends",
-      "url": "https://trends.google.com/trending?geo=",
-      "score": 20.0,
-      "traffic": "1000+",
-      "category": "",
-      "metadata": {
-        "news": [
-          {
-            "title": "Belarus vs Albania: UEFA Nations League stats & head-to-head",
-            "url": "https://www.bbc.com/sport/football/live/c9gkly1nzylyt",
-            "source": "BBC"
-          },
-          {
-            "title": "Belarus vs Albania: Where to watch, live stream, TV channel and kick-off time",
-            "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-belarus-v-albania/blt2cc70eb9a3f35211",
-            "source": "Goal.com"
-          },
-          {
-            "title": "Belarus vs Albania – prediction, preview & betting tips – 15/11/2026",
-            "url": "https://footballwhispers.com/blog/belarus-vs-albania-prediction-15-11-2026/",
-            "source": "Football Whispers"
-          }
-        ],
-        "geo": ""
-      }
-    },
-    {
-      "keyword": "Iran drones target Bahrain base",
+      "keyword": "Four female artists music taste",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Iran drones target Bahrain base",
+      "url": "https://bsky.app/search?q=Four female artists music taste",
       "score": 100,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b7b857a889e2"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/24f2bfe3680d"
       }
     },
     {
-      "keyword": "Lutnick chip export controls scandal",
+      "keyword": "Trump blames Biden for FAA ground stop",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Lutnick chip export controls scandal",
+      "url": "https://bsky.app/search?q=Trump blames Biden for FAA ground stop",
       "score": 95,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3688097a173f"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/1c86cba44c86"
       }
     },
     {
@@ -955,14 +970,14 @@
       }
     },
     {
-      "keyword": "Films watched more than six times",
+      "keyword": "ICE detentions separate families",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Films watched more than six times",
+      "url": "https://bsky.app/search?q=ICE detentions separate families",
       "score": 85,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59e5d0329afe"
       }
     },
     {
@@ -988,47 +1003,47 @@
       }
     },
     {
-      "keyword": "Italy Meta photo access case",
+      "keyword": "Two planes collide at Miami airport",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Italy Meta photo access case",
+      "url": "https://bsky.app/search?q=Two planes collide at Miami airport",
       "score": 70,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6c706ebeb4c5"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b432c0c76805"
+      }
+    },
+    {
+      "keyword": "Pope Leo rides Peruvian helicopter",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Pope Leo rides Peruvian helicopter",
+      "score": 65,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/669e65227c3d"
+      }
+    },
+    {
+      "keyword": "Bird photography",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Bird photography",
+      "score": 60,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e91b9e15d194"
       }
     },
     {
       "keyword": "Horses ride Detroit city bus",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Horses ride Detroit city bus",
-      "score": 65,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec"
-      }
-    },
-    {
-      "keyword": "Leather jackets in tech",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Leather jackets in tech",
-      "score": 60,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/7afee440e52b"
-      }
-    },
-    {
-      "keyword": "Microsoft resolves global outage",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Microsoft resolves global outage",
       "score": 55,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2fff3b60524e"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ab410264a6ec"
       }
     },
     {
@@ -1049,7 +1064,7 @@
       "source": "bluesky",
       "url": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot",
       "score": 100,
-      "traffic": "39626 likes",
+      "traffic": "39627 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -1062,7 +1077,7 @@
       "source": "bluesky",
       "url": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/with-friends",
       "score": 100,
-      "traffic": "41405 likes",
+      "traffic": "41407 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -1075,7 +1090,7 @@
       "source": "bluesky",
       "url": "at://did:plc:tenurhgjptubkk5zf5qhi3og/app.bsky.feed.generator/mutuals",
       "score": 100,
-      "traffic": "28827 likes",
+      "traffic": "28829 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -1097,15 +1112,34 @@
       }
     },
     {
+      "keyword": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+      "source": "devto",
+      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+      "score": 6.6,
+      "traffic": "33 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 5039203,
+        "comments": 6,
+        "author": "earlgreyhot1701d",
+        "tags": [
+          "ai",
+          "webdev",
+          "hackathon",
+          "showdev"
+        ]
+      }
+    },
+    {
       "keyword": "Cat Mutilation Successful!! 🛸 Welcome New Members!! 🐈🎉",
       "source": "devto",
       "url": "https://dev.to/necoz/cat-mutilation-successful-welcome-new-members-4bj4",
-      "score": 12.6,
-      "traffic": "63 reactions",
+      "score": 15.2,
+      "traffic": "76 reactions",
       "category": "tech",
       "metadata": {
         "id": 5036386,
-        "comments": 18,
+        "comments": 20,
         "author": "nyaomaru",
         "tags": [
           "necoz",
@@ -1119,12 +1153,12 @@
       "keyword": "🐱 The Great Cat Party on necoz Planet! 🚀Python variable",
       "source": "devto",
       "url": "https://dev.to/necoz/the-great-cat-party-on-necoz-planet-python-variable-1cgf",
-      "score": 6.8,
-      "traffic": "34 reactions",
+      "score": 9.8,
+      "traffic": "49 reactions",
       "category": "tech",
       "metadata": {
         "id": 5042083,
-        "comments": 8,
+        "comments": 9,
         "author": "star123",
         "tags": [
           "discuss",
@@ -1135,34 +1169,15 @@
       }
     },
     {
-      "keyword": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
-      "source": "devto",
-      "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
-      "score": 5.0,
-      "traffic": "25 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 5039203,
-        "comments": 3,
-        "author": "earlgreyhot1701d",
-        "tags": [
-          "ai",
-          "webdev",
-          "hackathon",
-          "showdev"
-        ]
-      }
-    },
-    {
       "keyword": "🐾 DEV Pet Corner #6: Show Us Your Pets!",
       "source": "devto",
       "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-6-show-us-your-pets-2gd3",
-      "score": 4.4,
-      "traffic": "22 reactions",
+      "score": 6.6,
+      "traffic": "33 reactions",
       "category": "tech",
       "metadata": {
         "id": 5042582,
-        "comments": 5,
+        "comments": 8,
         "author": "hemapriya_kanagala",
         "tags": [
           "discuss",
@@ -1173,11 +1188,30 @@
       }
     },
     {
+      "keyword": "Day 83: Two Files and Four Parts",
+      "source": "devto",
+      "url": "https://dev.to/ndcodes/day-83-two-files-and-four-parts-40hc",
+      "score": 2.8,
+      "traffic": "14 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 5041802,
+        "comments": 0,
+        "author": "ndcodes",
+        "tags": [
+          "devops",
+          "ansible",
+          "azure",
+          "automation"
+        ]
+      }
+    },
+    {
       "keyword": ".NET 11 Unpacked: Why I'm Recommending STS This Time",
       "source": "devto",
       "url": "https://dev.to/georgekobaidze/net-11-unpacked-why-im-recommending-sts-this-time-lnj",
-      "score": 2.4,
-      "traffic": "12 reactions",
+      "score": 2.6,
+      "traffic": "13 reactions",
       "category": "tech",
       "metadata": {
         "id": 5042275,
@@ -1195,18 +1229,37 @@
       "keyword": "Jira said Done. It wasn't, and the bug showed up later. So I made Jira check first.",
       "source": "devto",
       "url": "https://dev.to/wst2002rk/jira-said-done-it-wasnt-and-the-bug-showed-up-later-so-i-made-jira-check-first-9ed",
-      "score": 7.0,
-      "traffic": "35 reactions",
+      "score": 7.4,
+      "traffic": "37 reactions",
       "category": "tech",
       "metadata": {
         "id": 5039348,
-        "comments": 9,
+        "comments": 11,
         "author": "wst2002rk",
         "tags": [
           "ai",
           "testing",
           "showdev",
           "opensource"
+        ]
+      }
+    },
+    {
+      "keyword": "Zombie Sweep: A Daily Serverless Hunt for Unused AWS Resources",
+      "source": "devto",
+      "url": "https://dev.to/aws-builders/zombie-sweep-a-daily-serverless-hunt-for-unused-aws-resources-1ph1",
+      "score": 0.4,
+      "traffic": "2 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 5042896,
+        "comments": 0,
+        "author": "xbill",
+        "tags": [
+          "aws",
+          "serverless",
+          "finops",
+          "python"
         ]
       }
     },
@@ -1249,34 +1302,15 @@
       }
     },
     {
-      "keyword": "Your AI Coding Agent Wrote a 600-Word Summary. What It Skipped Is in the Fine Print.",
-      "source": "devto",
-      "url": "https://dev.to/debashish_ghosal/your-ai-coding-agent-wrote-a-600-word-summary-what-it-skipped-is-in-the-fine-print-1h7d",
-      "score": 3.6,
-      "traffic": "18 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 5038118,
-        "comments": 6,
-        "author": "debashish_ghosal",
-        "tags": [
-          "discuss",
-          "ai",
-          "softwareengineering",
-          "productivity"
-        ]
-      }
-    },
-    {
       "keyword": "The Vibe Coding Kernel-pocalypse Is Here, and It Is a Good Thing",
       "source": "devto",
       "url": "https://dev.to/xbill/the-vibe-coding-kernel-pocalypse-is-here-and-it-is-a-good-thing-3d83",
-      "score": 0.6,
-      "traffic": "3 reactions",
+      "score": 1.8,
+      "traffic": "9 reactions",
       "category": "tech",
       "metadata": {
         "id": 5042404,
-        "comments": 2,
+        "comments": 3,
         "author": "xbill",
         "tags": [
           "linux",
@@ -1287,11 +1321,49 @@
       }
     },
     {
+      "keyword": "Your AI Coding Agent Wrote a 600-Word Summary. What It Skipped Is in the Fine Print.",
+      "source": "devto",
+      "url": "https://dev.to/debashish_ghosal/your-ai-coding-agent-wrote-a-600-word-summary-what-it-skipped-is-in-the-fine-print-1h7d",
+      "score": 4.0,
+      "traffic": "20 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 5038118,
+        "comments": 8,
+        "author": "debashish_ghosal",
+        "tags": [
+          "discuss",
+          "ai",
+          "softwareengineering",
+          "productivity"
+        ]
+      }
+    },
+    {
+      "keyword": "Are You a CSS Developer or a CSS Expert? 9 Tests I Failed Styling a 12,400-Line Photo Editor",
+      "source": "devto",
+      "url": "https://dev.to/akhourianmolkumar/are-you-a-css-developer-or-a-css-expert-9-tests-i-failed-styling-a-12400-line-photo-editor-161p",
+      "score": 7.4,
+      "traffic": "37 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 5035228,
+        "comments": 74,
+        "author": "akhourianmolkumar",
+        "tags": [
+          "css",
+          "html",
+          "beginners",
+          "webassembly"
+        ]
+      }
+    },
+    {
       "keyword": "I Told My Agent Who Sent the Message. It Mostly Stopped Saying We Were Talking.",
       "source": "devto",
       "url": "https://dev.to/kenielzep97/i-told-my-agent-who-sent-the-message-it-mostly-stopped-saying-we-were-talking-12o8",
-      "score": 4.0,
-      "traffic": "20 reactions",
+      "score": 4.4,
+      "traffic": "22 reactions",
       "category": "tech",
       "metadata": {
         "id": 5039243,
@@ -1306,49 +1378,11 @@
       }
     },
     {
-      "keyword": "Day 83: Two Files and Four Parts",
-      "source": "devto",
-      "url": "https://dev.to/ndcodes/day-83-two-files-and-four-parts-40hc",
-      "score": 2.6,
-      "traffic": "13 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 5041802,
-        "comments": 0,
-        "author": "ndcodes",
-        "tags": [
-          "devops",
-          "ansible",
-          "azure",
-          "automation"
-        ]
-      }
-    },
-    {
-      "keyword": "One Tool Call Instead of Four Pages: Adding WebMCP to My Site",
-      "source": "devto",
-      "url": "https://dev.to/debs_obrien/one-tool-call-instead-of-four-pages-adding-webmcp-to-my-site-29g7",
-      "score": 1.4,
-      "traffic": "7 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 5038062,
-        "comments": 2,
-        "author": "debs_obrien",
-        "tags": [
-          "ai",
-          "mcp",
-          "agents",
-          "webdev"
-        ]
-      }
-    },
-    {
       "keyword": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
       "source": "devto",
       "url": "https://dev.to/copyleftdev/zombies-a-gunship-and-a-judgment-model-what-could-go-wrong-2k95",
-      "score": 1.8,
-      "traffic": "9 reactions",
+      "score": 2.0,
+      "traffic": "10 reactions",
       "category": "tech",
       "metadata": {
         "id": 5038913,
@@ -1363,34 +1397,15 @@
       }
     },
     {
-      "keyword": "I posted 20+ short data videos rendered from code: every video over 25 seconds died, and half the viewers leave by second 3",
-      "source": "devto",
-      "url": "https://dev.to/fast_data_asap/i-posted-20-short-data-videos-rendered-from-code-every-video-over-25-seconds-died-and-half-the-4f84",
-      "score": 1.4,
-      "traffic": "7 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 5037081,
-        "comments": 3,
-        "author": "fast_data_asap",
-        "tags": [
-          "dataviz",
-          "video",
-          "marketing",
-          "python"
-        ]
-      }
-    },
-    {
       "keyword": "Memory management in 40 major C projects, a survey",
       "source": "lobsters",
       "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
-      "score": 5.7,
-      "traffic": "17 points",
+      "score": 12.7,
+      "traffic": "38 points",
       "category": "tech",
       "metadata": {
         "id": "vdxevp",
-        "comments": 1,
+        "comments": 8,
         "submitter": "eatonphil",
         "tags": [
           "c"
@@ -1398,15 +1413,31 @@
       }
     },
     {
+      "keyword": "All AI-generated code should be Open Source",
+      "source": "lobsters",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 7.0,
+      "traffic": "21 points",
+      "category": "tech",
+      "metadata": {
+        "id": "ek4fkg",
+        "comments": 9,
+        "submitter": "Yogthos",
+        "tags": [
+          "programming"
+        ]
+      }
+    },
+    {
       "keyword": "25 of my favourite modern NES games",
       "source": "lobsters",
       "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "score": 17.0,
-      "traffic": "51 points",
+      "score": 20.0,
+      "traffic": "60 points",
       "category": "tech",
       "metadata": {
         "id": "w9j7xs",
-        "comments": 7,
+        "comments": 9,
         "submitter": "JordiGH",
         "tags": [
           "games",
@@ -1418,12 +1449,12 @@
       "keyword": "cursor:pointer on buttons",
       "source": "lobsters",
       "url": "https://blog.kizu.dev/cursors/",
-      "score": 6.3,
-      "traffic": "19 points",
+      "score": 8.0,
+      "traffic": "24 points",
       "category": "tech",
       "metadata": {
         "id": "h8tghc",
-        "comments": 10,
+        "comments": 12,
         "submitter": "two",
         "tags": [
           "a11y",
@@ -1436,8 +1467,8 @@
       "keyword": "A NES emulator written in Odin",
       "source": "lobsters",
       "url": "https://lucypero.com/lucynes.html",
-      "score": 2.3,
-      "traffic": "7 points",
+      "score": 3.7,
+      "traffic": "11 points",
       "category": "tech",
       "metadata": {
         "id": "dtjgmc",
@@ -1449,44 +1480,11 @@
       }
     },
     {
-      "keyword": "Let Me Let You Own Your Data",
-      "source": "lobsters",
-      "url": "https://www.willett.io/posts/data/",
-      "score": 13.3,
-      "traffic": "40 points",
-      "category": "tech",
-      "metadata": {
-        "id": "fllb0m",
-        "comments": 29,
-        "submitter": "thomas0",
-        "tags": [
-          "databases",
-          "privacy"
-        ]
-      }
-    },
-    {
-      "keyword": "Periodic-Oriented Programming for FIRST Robotics",
-      "source": "lobsters",
-      "url": "https://bvisness.me/periodic-oriented-programming/",
-      "score": 5.7,
-      "traffic": "17 points",
-      "category": "tech",
-      "metadata": {
-        "id": "bwjt1b",
-        "comments": 2,
-        "submitter": "robalex",
-        "tags": [
-          "programming"
-        ]
-      }
-    },
-    {
       "keyword": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
       "source": "lobsters",
       "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "score": 4.3,
-      "traffic": "13 points",
+      "score": 6.7,
+      "traffic": "20 points",
       "category": "tech",
       "metadata": {
         "id": "hiayul",
@@ -1499,15 +1497,87 @@
       }
     },
     {
+      "keyword": "Let Me Let You Own Your Data",
+      "source": "lobsters",
+      "url": "https://www.willett.io/posts/data/",
+      "score": 14.7,
+      "traffic": "44 points",
+      "category": "tech",
+      "metadata": {
+        "id": "fllb0m",
+        "comments": 31,
+        "submitter": "thomas0",
+        "tags": [
+          "databases",
+          "privacy"
+        ]
+      }
+    },
+    {
+      "keyword": "Blog: Preventing Cross-Service UDP Loops in QUIC",
+      "source": "lobsters",
+      "url": "https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic",
+      "score": 1.0,
+      "traffic": "3 points",
+      "category": "tech",
+      "metadata": {
+        "id": "om6v89",
+        "comments": 0,
+        "submitter": "freddyb",
+        "tags": [
+          "networking",
+          "security"
+        ]
+      }
+    },
+    {
+      "keyword": "Strata — memory is explicit I/O",
+      "source": "lobsters",
+      "url": "https://yrashk.com/strata/",
+      "score": 0.0,
+      "traffic": "0 points",
+      "category": "tech",
+      "metadata": {
+        "id": "ghijzd",
+        "comments": 0,
+        "submitter": "yrashk",
+        "tags": [
+          "assembly",
+          "c",
+          "concatenative",
+          "hardware",
+          "osdev",
+          "show",
+          "wasm"
+        ]
+      }
+    },
+    {
+      "keyword": "Periodic-Oriented Programming for FIRST Robotics",
+      "source": "lobsters",
+      "url": "https://bvisness.me/periodic-oriented-programming/",
+      "score": 6.0,
+      "traffic": "18 points",
+      "category": "tech",
+      "metadata": {
+        "id": "bwjt1b",
+        "comments": 2,
+        "submitter": "robalex",
+        "tags": [
+          "programming"
+        ]
+      }
+    },
+    {
       "keyword": "Anthropomorphic Software",
       "source": "lobsters",
       "url": "https://aspiz.uk/wiki/AnthropomorphicSoftware",
-      "score": 5.0,
-      "traffic": "15 points",
+      "score": 6.3,
+      "traffic": "19 points",
       "category": "tech",
       "metadata": {
         "id": "ofic7z",
-        "comments": 8,
+        "comments": 10,
         "submitter": "abhin4v",
         "tags": [
           "culture"
@@ -1515,11 +1585,27 @@
       }
     },
     {
+      "keyword": "Disk encryption on NetBSD achieving secrecy",
+      "source": "lobsters",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "score": 3.7,
+      "traffic": "11 points",
+      "category": "tech",
+      "metadata": {
+        "id": "6ovrdg",
+        "comments": 1,
+        "submitter": "jaypatelani",
+        "tags": [
+          "netbsd"
+        ]
+      }
+    },
+    {
       "keyword": "Parsing nested lists in BQN",
       "source": "lobsters",
       "url": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
-      "score": 4.7,
-      "traffic": "14 points",
+      "score": 5.0,
+      "traffic": "15 points",
       "category": "tech",
       "metadata": {
         "id": "nbjckz",
@@ -1534,8 +1620,8 @@
       "keyword": "Reintroducing Spaces",
       "source": "lobsters",
       "url": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
-      "score": 3.3,
-      "traffic": "10 points",
+      "score": 5.0,
+      "traffic": "15 points",
       "category": "tech",
       "metadata": {
         "id": "dwd6xu",
@@ -1547,87 +1633,19 @@
       }
     },
     {
-      "keyword": "Disk encryption on NetBSD achieving secrecy",
+      "keyword": "clice v1.0 Released: Welcome to Modern C++",
       "source": "lobsters",
-      "url": "https://netbsd.org/~nia/disk-encrypt/",
-      "score": 2.3,
-      "traffic": "7 points",
+      "url": "https://www.ykiko.me/en/articles/2105384023094834022/",
+      "score": 0.3,
+      "traffic": "1 points",
       "category": "tech",
       "metadata": {
-        "id": "6ovrdg",
+        "id": "9haygb",
         "comments": 0,
-        "submitter": "jaypatelani",
+        "submitter": "jeaye",
         "tags": [
-          "netbsd"
-        ]
-      }
-    },
-    {
-      "keyword": "What happened to 3com?",
-      "source": "lobsters",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "score": 12.7,
-      "traffic": "38 points",
-      "category": "tech",
-      "metadata": {
-        "id": "pgmw6b",
-        "comments": 7,
-        "submitter": "kaycebasques",
-        "tags": [
-          "hardware",
-          "historical",
-          "retrocomputing"
-        ]
-      }
-    },
-    {
-      "keyword": "Solving the fox game",
-      "source": "lobsters",
-      "url": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
-      "score": 7.0,
-      "traffic": "21 points",
-      "category": "tech",
-      "metadata": {
-        "id": "q81fi4",
-        "comments": 5,
-        "submitter": "dracarys_18",
-        "tags": [
-          "math"
-        ]
-      }
-    },
-    {
-      "keyword": "The need for at least a third option",
-      "source": "lobsters",
-      "url": "https://blog.ovalerio.net/archives/3359",
-      "score": 29.3,
-      "traffic": "88 points",
-      "category": "tech",
-      "metadata": {
-        "id": "9oq6fr",
-        "comments": 49,
-        "submitter": "dethos",
-        "tags": [
-          "android",
-          "ios",
-          "mobile"
-        ]
-      }
-    },
-    {
-      "keyword": "How Not to Build a Music Player",
-      "source": "lobsters",
-      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
-      "score": 39.3,
-      "traffic": "118 points",
-      "category": "tech",
-      "metadata": {
-        "id": "lh9pwf",
-        "comments": 25,
-        "submitter": "alichraghi",
-        "tags": [
-          "person",
-          "zig"
+          "c++",
+          "compilers"
         ]
       }
     },
@@ -1640,7 +1658,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 21422,
-        "pull_count": 13595398209,
+        "pull_count": 13596027416,
         "description": "Official build of Nginx."
       }
     },
@@ -1653,7 +1671,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 2476,
-        "pull_count": 13446129183,
+        "pull_count": 13446287345,
         "description": "Free & open source, high-performance, distributed memory object caching system."
       }
     },
@@ -1666,7 +1684,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 3525,
-        "pull_count": 13021182816,
+        "pull_count": 13021661350,
         "description": "Busybox base image."
       }
     },
@@ -1679,7 +1697,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 11586,
-        "pull_count": 12532490967,
+        "pull_count": 12533377485,
         "description": "A minimal Docker image based on Alpine Linux with a complete package index and only 5 MB in size!"
       }
     },
@@ -1692,7 +1710,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 15056,
-        "pull_count": 12460761421,
+        "pull_count": 12464475830,
         "description": "The PostgreSQL object-relational database system provides reliability and data integrity."
       }
     },
@@ -1705,7 +1723,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 13635,
-        "pull_count": 11679028534,
+        "pull_count": 11680086971,
         "description": "Redis is the world’s fastest data platform for caching, vector search, and NoSQL databases."
       }
     },
@@ -1717,8 +1735,8 @@
       "traffic": "10.2B pulls",
       "category": "devops",
       "metadata": {
-        "star_count": 17879,
-        "pull_count": 10176888216,
+        "star_count": 17880,
+        "pull_count": 10177299185,
         "description": "Ubuntu is a Debian-based Linux operating system based on free software."
       }
     },
@@ -1731,7 +1749,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 10549,
-        "pull_count": 9642139154,
+        "pull_count": 9643429632,
         "description": "Python is an interpreted, interactive, object-oriented, open-source programming language."
       }
     },
@@ -1744,7 +1762,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 14215,
-        "pull_count": 7410136444,
+        "pull_count": 7411682151,
         "description": "Node.js is a JavaScript-based platform for server-side and networking applications."
       }
     },
@@ -1757,7 +1775,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 16199,
-        "pull_count": 5266118665,
+        "pull_count": 5266418712,
         "description": "MySQL is a widely used, open-source relational database management system (RDBMS)."
       }
     },
@@ -1770,7 +1788,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 10760,
-        "pull_count": 4927687678,
+        "pull_count": 4927857272,
         "description": "MongoDB document databases provide high availability and easy scalability."
       }
     },
@@ -1783,7 +1801,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 4933,
-        "pull_count": 4756738840,
+        "pull_count": 4756797445,
         "description": "The Apache HTTP Server Project"
       }
     },
@@ -1796,7 +1814,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 5373,
-        "pull_count": 3919005111,
+        "pull_count": 3919117085,
         "description": "RabbitMQ is an open source multi-protocol messaging broker."
       }
     },
@@ -1809,7 +1827,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 2755,
-        "pull_count": 3670499444,
+        "pull_count": 3670672796,
         "description": "Docker in Docker! (commonly known as \"dind\")"
       }
     },
@@ -1822,7 +1840,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 3678,
-        "pull_count": 3604853746,
+        "pull_count": 3605023819,
         "description": "Traefik, The Cloud Native Edge Router"
       }
     },
@@ -2218,55 +2236,29 @@
       }
     },
     {
-      "keyword": "ni hao cat",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/ni-hao-cat",
-      "score": 10,
-      "traffic": "Rank #948",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "MIHAO",
-        "market_cap_rank": 948,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102180218/standard/logo.jpg?1794391774"
-      }
-    },
-    {
       "keyword": "Macca the Gator",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/macca-the-gator-2",
       "score": 10,
-      "traffic": "Rank #943",
+      "traffic": "Rank #821",
       "category": "crypto",
       "metadata": {
         "symbol": "MACCA",
-        "market_cap_rank": 943,
+        "market_cap_rank": 821,
         "thumb": "https://coin-images.coingecko.com/coins/images/102180282/standard/logo.webp?1794683187"
       }
     },
     {
-      "keyword": "AudaCity",
+      "keyword": "ni hao cat",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/audacity-4",
+      "url": "https://www.coingecko.com/en/coins/ni-hao-cat",
       "score": 10,
-      "traffic": "Rank #967",
+      "traffic": "Rank #903",
       "category": "crypto",
       "metadata": {
-        "symbol": "DACITYCOIN",
-        "market_cap_rank": 967,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102180213/standard/5.png?1794332841"
-      }
-    },
-    {
-      "keyword": "Gato The Cat",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/gato-the-cat",
-      "score": 10,
-      "traffic": "Rank #869",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "GATO",
-        "market_cap_rank": 869,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102180268/standard/logo_GatoCat.jpg?1794740772"
+        "symbol": "MIHAO",
+        "market_cap_rank": 903,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102180218/standard/logo.jpg?1794391774"
       }
     },
     {
@@ -2274,12 +2266,51 @@
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/identity-md",
       "score": 10,
-      "traffic": "Rank #894",
+      "traffic": "Rank #834",
       "category": "crypto",
       "metadata": {
         "symbol": "IMD",
-        "market_cap_rank": 894,
+        "market_cap_rank": 834,
         "thumb": "https://coin-images.coingecko.com/coins/images/102180271/standard/logo-user.png?1794660261"
+      }
+    },
+    {
+      "keyword": "Aster",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/aster-2",
+      "score": 10,
+      "traffic": "Rank #57",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "ASTER",
+        "market_cap_rank": 57,
+        "thumb": "https://coin-images.coingecko.com/coins/images/69040/standard/_ASTER.png?1757326782"
+      }
+    },
+    {
+      "keyword": "Gato The Cat",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/gato-the-cat",
+      "score": 10,
+      "traffic": "Rank #856",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "GATO",
+        "market_cap_rank": 856,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102180268/standard/logo_GatoCat.jpg?1794740772"
+      }
+    },
+    {
+      "keyword": "AudaCity",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/audacity-4",
+      "score": 10,
+      "traffic": "Rank #946",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "DACITYCOIN",
+        "market_cap_rank": 946,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102180213/standard/5.png?1794332841"
       }
     },
     {
@@ -2296,42 +2327,16 @@
       }
     },
     {
-      "keyword": "Monad",
+      "keyword": "Chainlink",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/monad",
-      "score": 10,
-      "traffic": "Rank #164",
+      "url": "https://www.coingecko.com/en/coins/chainlink",
+      "score": 66,
+      "traffic": "Rank #17",
       "category": "crypto",
       "metadata": {
-        "symbol": "MON",
-        "market_cap_rank": 164,
-        "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057"
-      }
-    },
-    {
-      "keyword": "Hyperliquid",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "score": 80,
-      "traffic": "Rank #10",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "HYPE",
-        "market_cap_rank": 10,
-        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
-      }
-    },
-    {
-      "keyword": "Pi Network",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pi-network",
-      "score": 10,
-      "traffic": "Rank #81",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "PI",
-        "market_cap_rank": 81,
-        "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+        "symbol": "LINK",
+        "market_cap_rank": 17,
+        "thumb": "https://coin-images.coingecko.com/coins/images/877/standard/Chainlink_Logo_500.png?1760023405"
       }
     },
     {
@@ -2348,29 +2353,42 @@
       }
     },
     {
-      "keyword": "Bittensor",
+      "keyword": "Zcash",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/bittensor",
-      "score": 20,
-      "traffic": "Rank #40",
+      "url": "https://www.coingecko.com/en/coins/zcash",
+      "score": 78,
+      "traffic": "Rank #11",
       "category": "crypto",
       "metadata": {
-        "symbol": "TAO",
-        "market_cap_rank": 40,
-        "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
+        "symbol": "ZEC",
+        "market_cap_rank": 11,
+        "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/Brandmark-Yellow_%281%29.png?1785810558"
       }
     },
     {
-      "keyword": "Pudgy Penguins",
+      "keyword": "Kaspa",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "url": "https://www.coingecko.com/en/coins/kaspa",
       "score": 10,
-      "traffic": "Rank #123",
+      "traffic": "Rank #80",
       "category": "crypto",
       "metadata": {
-        "symbol": "PENGU",
-        "market_cap_rank": 123,
-        "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+        "symbol": "KAS",
+        "market_cap_rank": 80,
+        "thumb": "https://coin-images.coingecko.com/coins/images/25751/standard/kaspa-icon-exchanges.png?1696524837"
+      }
+    },
+    {
+      "keyword": "Monad",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/monad",
+      "score": 10,
+      "traffic": "Rank #165",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "MON",
+        "market_cap_rank": 165,
+        "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057"
       }
     },
     {
@@ -2387,29 +2405,29 @@
       }
     },
     {
-      "keyword": "Ethereum",
+      "keyword": "Hyperliquid",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/ethereum",
-      "score": 96,
-      "traffic": "Rank #2",
+      "url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "score": 80,
+      "traffic": "Rank #10",
       "category": "crypto",
       "metadata": {
-        "symbol": "ETH",
-        "market_cap_rank": 2,
-        "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+        "symbol": "HYPE",
+        "market_cap_rank": 10,
+        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
       }
     },
     {
-      "keyword": "Aave",
+      "keyword": "Cardano",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/aave",
-      "score": 10,
-      "traffic": "Rank #47",
+      "url": "https://www.coingecko.com/en/coins/cardano",
+      "score": 64,
+      "traffic": "Rank #18",
       "category": "crypto",
       "metadata": {
-        "symbol": "AAVE",
-        "market_cap_rank": 47,
-        "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
+        "symbol": "ADA",
+        "market_cap_rank": 18,
+        "thumb": "https://coin-images.coingecko.com/coins/images/975/standard/cardano.png?1696502090"
       }
     }
   ],
@@ -2442,18 +2460,18 @@
       "metadata": {}
     },
     {
-      "keyword": "“两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕",
+      "keyword": "中国战队再夺英雄联盟全球总冠军：2000万人在线力挺，谁接住了这泼天流量？",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34484528",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34485193",
       "score": 0,
       "traffic": "",
       "category": "news",
       "metadata": {}
     },
     {
-      "keyword": "中国战队再夺英雄联盟全球总冠军：2000万人在线力挺，谁接住了这泼天流量？",
+      "keyword": "“两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34485193",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34484528",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2523,18 +2541,18 @@
       "metadata": {}
     },
     {
-      "keyword": "开启辅助驾驶功能在高速上闭眼开车，男子被青岛警方处罚",
+      "keyword": "媒体观察：A级景区“有进有出”，评级动态管理释放哪些信号",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34465992",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34483054",
       "score": 0,
       "traffic": "",
       "category": "news",
       "metadata": {}
     },
     {
-      "keyword": "媒体观察：A级景区“有进有出”，评级动态管理释放哪些信号",
+      "keyword": "开启辅助驾驶功能在高速上闭眼开车，男子被青岛警方处罚",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34483054",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34465992",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2577,18 +2595,18 @@
       "metadata": {}
     },
     {
-      "keyword": "人民日报评论员：贯彻《条例》、守土尽责",
+      "keyword": "美国航空停摆，祸起路由器？",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34485814",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34486279",
       "score": 0,
       "traffic": "",
       "category": "news",
       "metadata": {}
     },
     {
-      "keyword": "四家券商密集领罚，国盛证券两员工违规参与股债认购被罚没254万",
+      "keyword": "人民日报评论员：贯彻《条例》、守土尽责",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34479925",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34485814",
       "score": 0,
       "traffic": "",
       "category": "news",
